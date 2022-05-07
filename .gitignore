@@ -1,3 +1,5 @@
+.vitepress/dist
+
 .yarn/*
 !.yarn/patches
 !.yarn/plugins

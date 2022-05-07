@@ -36,7 +36,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:8.14.0"],\
             ["prettier", "npm:2.6.2"],\
             ["typescript", "patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=bda367"],\
-            ["vitepress", "npm:0.22.3"]\
+            ["vitepress", "npm:0.22.3"],\
+            ["vue", "npm:3.2.33"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -2322,7 +2323,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:8.14.0"],\
             ["prettier", "npm:2.6.2"],\
             ["typescript", "patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=bda367"],\
-            ["vitepress", "npm:0.22.3"]\
+            ["vitepress", "npm:0.22.3"],\
+            ["vue", "npm:3.2.33"]\
           ],\
           "linkType": "SOFT"\
         }]\
