@@ -90,13 +90,6 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
 </tbody>
 </table>
 
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5em;">
-<a href="#sponsor-1"><img src="https://placehold.co/1200x480"></a>
-<a href="#sponsor-2"><img src="https://placehold.co/1200x480"></a>
-<a href="#sponsor-3"><img src="https://placehold.co/1200x480"></a>
-<a href="#sponsor-4"><img src="https://placehold.co/1200x480"></a>
-</div>
-
 </UnderConstruction>
 
 ## Sponsors

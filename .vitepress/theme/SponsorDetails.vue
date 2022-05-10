@@ -1,10 +1,14 @@
 <script setup>
-import { useSponsors } from './useSponsors'
+import { useSponsors, shouldShowSponsor } from './useSponsors'
 const sponsors = useSponsors()
 </script>
 
 <template>
-  <template v-for="sponsor of sponsors">
+  <template
+    v-for="sponsor of sponsors"
+    v-if="shouldShowSponsor(sponsor)"
+    :key="sponsor.id"
+  >
     <h3 :id="sponsor.id">{{ sponsor.name }}</h3>
     <p>
       <a :href="sponsor.url" target="_blank" rel="noopener">

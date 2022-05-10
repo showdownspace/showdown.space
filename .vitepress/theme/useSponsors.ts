@@ -6,20 +6,22 @@ export function useSponsors() {
   const data = useData()
   return computed(() => {
     const sponsors = data.page.value.frontmatter.sponsors
-    return Array.from(sponsors).flatMap((s, i) => {
-      if (!isQueryFlagEnabled('dev') && s.live === false) {
-        return []
+    return Array.from(sponsors).map((s, i) => {
+      return {
+        name: s.name,
+        url: s.url,
+        id: `sponsor${i + 1}`,
+        image: s.image || 'https://placehold.co/1200x480',
+        links: s.links,
+        message: s.message,
       }
-      return [
-        {
-          name: s.name,
-          url: s.url,
-          id: `sponsor${i + 1}`,
-          image: s.image || 'https://placehold.co/1200x480',
-          links: s.links,
-          message: s.message,
-        },
-      ]
     })
   })
+}
+
+export function shouldShowSponsor(s) {
+  if (!isQueryFlagEnabled('dev') && s.live === false) {
+    return false
+  }
+  return true
 }
