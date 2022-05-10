@@ -1,6 +1,13 @@
 ---
 sponsors:
   - name: 'Sponsor #1'
+    links:
+      - name: 'Link 1'
+        url: 'https://showdown.space'
+      - name: 'Link 2'
+        url: 'https://showdown.space'
+    message: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis eget sapien in faucibus. Mauris quis fermentum nisi. Fusce dui mauris, ornare in nunc vel, consequat posuere massa. Donec malesuada, mauris non hendrerit iaculis, augue urna dapibus dolor, a pulvinar sem eros eget nulla. Suspendisse varius, eros in ornare suscipit, velit orci vestibulum leo, eu facilisis ipsum felis nec arcu. Etiam sed consequat dui. Pellentesque sed bibendum risus. Vivamus sit amet finibus tortor, et tempor felis. Phasellus sit amet nunc in diam facilisis efficitur at nec lorem.
 ---
 
 # Code in the Wind #1

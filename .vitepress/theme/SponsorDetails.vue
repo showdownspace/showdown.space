@@ -9,6 +9,12 @@ const sponsors = useSponsors()
     <p>
       <img :src="sponsor.image" />
     </p>
+    <ul v-if="sponsor.links">
+      <li v-for="link of sponsor.links">
+        <a :href="link.url">{{ link.name }}</a>
+      </li>
+    </ul>
+    <p>{{ sponsor.message }}</p>
   </template>
 </template>
 

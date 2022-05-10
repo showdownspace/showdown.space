@@ -9,7 +9,9 @@ export function useSponsors() {
       return {
         name: s.name,
         id: `sponsor${i + 1}`,
-        image: 'https://placehold.co/1200x480',
+        image: s.image || 'https://placehold.co/1200x480',
+        links: s.links,
+        message: s.message,
       }
     })
   })
