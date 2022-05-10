@@ -3,6 +3,7 @@ import { defineComponent, ref, onMounted } from 'vue'
 import { isQueryFlagEnabled } from './QueryFlags'
 
 export default defineComponent({
+  props: ['disabled'],
   setup() {
     const show = ref(false)
     onMounted(() => {
@@ -15,5 +16,5 @@ export default defineComponent({
 
 
 <template>
-  <slot v-if="show" />
+  <slot v-if="show || disabled" />
 </template>

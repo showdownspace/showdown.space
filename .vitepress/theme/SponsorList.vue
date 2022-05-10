@@ -1,5 +1,6 @@
 <script setup>
-import { useSponsors, shouldShowSponsor } from './useSponsors'
+import { useSponsors } from './useSponsors'
+import UnderConstruction from './UnderConstruction.vue'
 const sponsors = useSponsors()
 </script>
 
@@ -11,13 +12,13 @@ const sponsors = useSponsors()
       gap: 0.5em;
     "
   >
-    <a
-      v-for="sponsor of sponsors"
-      :href="'#' + sponsor.id"
-      v-if="shouldShowSponsor(sponsor)"
-    >
-      <img :src="sponsor.image" />
-    </a>
+    <template v-for="sponsor of sponsors" key="sponsor.id">
+      <UnderConstruction :disabled="sponsor.live !== false">
+        <a :href="'#' + sponsor.id">
+          <img :src="sponsor.image" />
+        </a>
+      </UnderConstruction>
+    </template>
   </div>
 </template>
 

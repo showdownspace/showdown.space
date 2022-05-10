@@ -9,6 +9,7 @@ export function useSponsors() {
     return Array.from(sponsors).map((s, i) => {
       return {
         name: s.name,
+        live: s.live,
         url: s.url,
         id: `sponsor${i + 1}`,
         image: s.image || 'https://placehold.co/1200x480',
@@ -17,11 +18,4 @@ export function useSponsors() {
       }
     })
   })
-}
-
-export function shouldShowSponsor(s) {
-  if (!isQueryFlagEnabled('dev') && s.live === false) {
-    return false
-  }
-  return true
 }

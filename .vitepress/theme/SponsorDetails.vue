@@ -1,26 +1,25 @@
 <script setup>
-import { useSponsors, shouldShowSponsor } from './useSponsors'
+import { useSponsors } from './useSponsors'
+import UnderConstruction from './UnderConstruction.vue'
 const sponsors = useSponsors()
 </script>
 
 <template>
-  <template
-    v-for="sponsor of sponsors"
-    v-if="shouldShowSponsor(sponsor)"
-    :key="sponsor.id"
-  >
-    <h3 :id="sponsor.id">{{ sponsor.name }}</h3>
-    <p>
-      <a :href="sponsor.url" target="_blank" rel="noopener">
-        <img :src="sponsor.image" :alt="sponsor.name" />
-      </a>
-    </p>
-    <p>{{ sponsor.message }}</p>
-    <ul v-if="sponsor.links">
-      <li v-for="link of sponsor.links">
-        <a :href="link.url" target="_blank" rel="noopener">{{ link.name }}</a>
-      </li>
-    </ul>
+  <template v-for="sponsor of sponsors" :key="sponsor.id">
+    <UnderConstruction :disabled="sponsor.live !== false">
+      <h3 :id="sponsor.id">{{ sponsor.name }}</h3>
+      <p>
+        <a :href="sponsor.url" target="_blank" rel="noopener">
+          <img :src="sponsor.image" :alt="sponsor.name" />
+        </a>
+      </p>
+      <p>{{ sponsor.message }}</p>
+      <ul v-if="sponsor.links">
+        <li v-for="link of sponsor.links">
+          <a :href="link.url" target="_blank" rel="noopener">{{ link.name }}</a>
+        </li>
+      </ul>
+    </UnderConstruction>
   </template>
 </template>
 
