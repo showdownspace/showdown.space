@@ -11,7 +11,7 @@ const sponsors = useSponsors()
     </p>
     <ul v-if="sponsor.links">
       <li v-for="link of sponsor.links">
-        <a :href="link.url">{{ link.name }}</a>
+        <a :href="link.url" target="_blank" rel="noopener">{{ link.name }}</a>
       </li>
     </ul>
     <p>{{ sponsor.message }}</p>
