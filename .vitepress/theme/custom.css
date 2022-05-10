@@ -17,6 +17,16 @@ div.container {
   max-width: 56rem !important;
 }
 
+.content {
+  padding-left: 1.5rem;
+}
+
+.content h1,
+.content h2,
+.content h3 {
+  margin-left: -1.5rem;
+}
+
 .custom-block.warning {
   color: #fff;
 }
@@ -27,4 +37,14 @@ th, td {
 
 tr:nth-child(2n) {
   background-color: #1c1917;
+}
+
+h2 {
+  padding-top: 2.25rem;
+  border-top: 2px solid #a8a29e88;
+}
+
+h3 {
+  padding-top: 2rem;
+  border-top: 1px solid #a8a29e33;
 }

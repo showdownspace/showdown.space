@@ -1,6 +1,9 @@
 {
   "name": "showdown.space",
   "packageManager": "yarn@3.2.0",
+  "scripts": {
+    "dev": "vitepress dev --port=${PORT:-6059}"
+  },
   "devDependencies": {
     "eslint": "^8.14.0",
     "prettier": "^2.6.2",

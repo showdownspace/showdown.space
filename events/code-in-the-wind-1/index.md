@@ -1,3 +1,8 @@
+---
+sponsors:
+  - name: 'Sponsor #1'
+---
+
 # Code in the Wind #1
 
 A game show for Tailwind CSS users.
@@ -14,6 +19,8 @@ This page is a stub. For the latest news, check out the [Facebook event page](ht
 **Code in the Wind** is a game show where contestants implement a web page according to the reference screenshot and a set of objectives using [Tailwind CSS](https://tailwindcss.com/).
 
 ![](./format.jpeg)
+
+<UnderConstruction>
 
 ## Final ranking
 
@@ -59,34 +66,44 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
 </tbody>
 </table>
 
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5em;">
+<a href="#sponsor-1"><img src="https://placehold.co/1200x480"></a>
+<a href="#sponsor-2"><img src="https://placehold.co/1200x480"></a>
+<a href="#sponsor-3"><img src="https://placehold.co/1200x480"></a>
+<a href="#sponsor-4"><img src="https://placehold.co/1200x480"></a>
+</div>
+
+</UnderConstruction>
+
 ## Sponsors
 
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5em;">
-<img src="https://placehold.co/1200x480">
-<img src="https://placehold.co/1200x480">
-<img src="https://placehold.co/1200x480">
-<img src="https://placehold.co/1200x480">
-</div>
+<SponsorList />
 
 ## Challenges
 
 <style scoped>
   .challenge {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row-reverse;
+    gap: 1rem;
   }
   .challenge-reference {
-    flex: none;
-    width: 180px;
+    flex: 1 0 270px;
+    width: 270px;
+    text-align: center;
     margin-top: 1rem;
-    margin-left: 1rem;
   }
   .challenge-reference img {
+    width: 270px;
     box-shadow: 0 0.2rem 0.5rem #0004;
   }
   .challenge-objectives {
-    font-size: 0.875rem;
-    flex: auto;
+    font-size: 0.875em;
+    flex: 99999 1 64%;
+  }
+  .challenge-objectives > ul {
+    padding-left: 0;
   }
   .challenge-objectives > ul > li {
     margin-bottom: 0.5rem;
@@ -105,11 +122,11 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
   }
 </style>
 
-### Example challenge
+### Example challenge #1
 
 <div class="challenge">
 <div class="challenge-reference">
-<img src="https://cdn.discordapp.com/attachments/969252015341449256/969296584800104468/unknown.png">
+<img src="https://citw01.pages.dev/example/reference.png">
 </div>
 <div class="challenge-objectives">
 
@@ -129,6 +146,32 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
 </div>
 </div>
 
+### Example challenge #2
+
+<div class="challenge">
+<div class="challenge-reference">
+<img src="https://citw01.pages.dev/example2/reference.png">
+</div>
+<div class="challenge-objectives">
+
+- ใส่ข้อความ _Game format_ ขนาดใหญ่ เป็นตัวหนา
+- สร้างข้อความสามแถว สำหรับรอบ _Qualifiers_, _Semi-finals_ และ _Finals_ ตามรูป
+  - Qualifiers มี 4 รอบ
+  - Semi-finals มี 2 รอบ
+  - Finals มีรอบเดียว
+- ใต้ข้อความของแต่ละรอบ ใส่วงกลมตามจำนวนคนในรอบ
+  - Qualifiers รอบละ 8 คน
+  - Semi-finals กับ Finals รอบละ 4 คน
+- ทำให้วงกลมเป็นเส้นประ ยกเว้นคนที่ผ่านเข้ารอบต่อไปหรืออยู่ในรอบ Finals ให้ทำเป็นเส้นทึบและมีพื้นหลังอ่อนๆ ตามรูป
+- ทำเส้นเชื่อมจากรอบ Qualifiers → Semi-finals และ Semi-finals → Finals
+
+</div>
+</div>
+
+<UnderConstruction>
+
+### Qualifiers #1
+
 <div class="roundresults">
 <div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
 <div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
@@ -139,8 +182,6 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
 <div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
 <div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
 </div>
-
-### Qualifiers #1
 
 ### Qualifiers #2
 
@@ -154,7 +195,17 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
 
 ### Finals #1
 
+</UnderConstruction>
+
 ## Staffs
+
+- [Thai Pangsakulyanont](https://dt.in.th/)
+- Nattpapat Pinyopusarerk
+- [Siriwat Kunaporn](https://siriwatk.dev/)
+- [Kanisorn Sutham](https://heyfirst.co/)
+- [Manassarn Manoonchai](https://narze.live/)
+- Pakawat Anekwiroj
+- Narawit Tubtimtoe
 
 ## Acknowledgements
 
@@ -162,3 +213,7 @@ This game is inspired by:
 
 - [Code in the Dark](http://codeinthedark.com/)
 - [DevWars.tv](https://www.devwars.tv/)
+
+## Sponsor Details
+
+<SponsorDetails />
