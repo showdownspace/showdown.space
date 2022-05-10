@@ -1,5 +1,22 @@
 ---
 sponsors:
+  - name: 'Cleverse'
+    url: 'https://cleverse.com/'
+    live: false
+    image: 'https://user-images.githubusercontent.com/193136/167689309-13b590cd-d383-450d-996f-584a14737144.png'
+  - name: 'Microsoft Thailand'
+    url: 'https://aka.ms/CloudSkillsChallengeTH'
+    live: false
+    image: 'https://user-images.githubusercontent.com/193136/167690035-3f63c7b4-6618-4f8a-bbec-ff8d25c46b7f.png'
+    links:
+      - name: 'Thailand Cloud Skills Challenge'
+        url: 'https://aka.ms/CloudSkillsChallengeTH'
+      - name: 'Microsoft Virtual Hackathon 2022'
+        url: 'https://aka.ms/APACHackFY22'
+      - name: 'Spark Tech Thailand - Tech ใกล้ตัว'
+        url: 'https://web.facebook.com/SparkTechTH'
+    message: |
+      Microsoft เปิดรับสมัครนักศึกษา นักพัฒนา วิศวกร นักออกแบบ ผู้ประกอบการ และผู้ที่สนใจเข้าร่วมการแข่งขัน Virtual Hackathon แก้ปัญหาความท้าทายทางธุรกิจในโลกแห่งความเป็นจริงโดยใช้ Azure AI! เงินรางวัลรวมมูลค่า 12,000 เหรียญสหรัฐ
   - name: 'Sponsor #1'
     links:
       - name: 'Link 1'

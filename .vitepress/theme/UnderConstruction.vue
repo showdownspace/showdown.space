@@ -1,18 +1,6 @@
 <script lang="ts">
 import { defineComponent, ref, onMounted } from 'vue'
-
-let flagSet: Set<string> | undefined
-
-export function isQueryFlagEnabled(flagName: string) {
-  if (!flagSet) {
-    flagSet = new Set(
-      (new URLSearchParams(window.location.search).get('flags') || '')
-        .split(',')
-        .filter(Boolean),
-    )
-  }
-  return flagSet.has(flagName)
-}
+import { isQueryFlagEnabled } from './QueryFlags'
 
 export default defineComponent({
   setup() {
