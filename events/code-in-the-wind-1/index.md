@@ -17,14 +17,16 @@ sponsors:
     live: false
     image: 'https://user-images.githubusercontent.com/193136/167690035-3f63c7b4-6618-4f8a-bbec-ff8d25c46b7f.png'
     message: |
-      Microsoft เปิดรับสมัครนักศึกษา นักพัฒนา วิศวกร นักออกแบบ ผู้ประกอบการ และผู้ที่สนใจเข้าร่วมการแข่งขัน Virtual Hackathon แก้ปัญหาความท้าทายทางธุรกิจในโลกแห่งความเป็นจริงโดยใช้ Azure AI! เงินรางวัลรวมมูลค่า 12,000 เหรียญสหรัฐ
+      Working with Tailwind CSS in Visual Studio Code? Let IntelliSense extension help you with advanced features such as autocomplete, syntax highlighting, and linting. → https://github.com/tailwindlabs/tailwindcss-intellisense
     links:
       - name: 'Thailand Cloud Skills Challenge'
         url: 'https://aka.ms/CloudSkillsChallengeTH'
       - name: 'Microsoft Virtual Hackathon 2022'
         url: 'https://aka.ms/APACHackFY22'
-      - name: 'Spark Tech Thailand - Tech ใกล้ตัว'
-        url: 'https://web.facebook.com/SparkTechTH'
+      - name: 'Web Development collection on Microsoft Learn'
+        url: 'https://aka.ms/Learn-Web-Dev-TH'
+      - name: 'Web Wednesday'
+        url: 'https://docs.microsoft.com/en-us/shows/web-wednesday'
 ---
 
 # Code in the Wind #1
