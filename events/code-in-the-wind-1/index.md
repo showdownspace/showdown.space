@@ -34,7 +34,7 @@ sponsors:
 A game show for Tailwind CSS users.
 
 **Date:** Tuesday, May 17, 2022 @ 19:00 (+7:00) \
-**Location:** Online (Discord)
+**Location:** [showdown.space Discord Server](https://discord.com/invite/d8zBzw2mem)
 
 ::: warning UNDER CONSTRUCTION
 This page is a stub. For the latest news, check out the [Facebook event page](https://www.facebook.com/events/5398524660192656/).
