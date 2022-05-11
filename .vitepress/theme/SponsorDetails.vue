@@ -13,12 +13,24 @@ const sponsors = useSponsors()
           <img :src="sponsor.image" :alt="sponsor.name" />
         </a>
       </p>
+      <p v-if="sponsor.links">
+        <template v-for="(link, i) of sponsor.links">
+          {{ i > 0 ? ' ・ ' : '' }}
+          <a
+            style="font-weight: 500"
+            :href="link.url"
+            target="_blank"
+            rel="noopener"
+            >{{ link.name }}</a
+          >
+        </template>
+      </p>
       <p>{{ sponsor.message }}</p>
-      <ul v-if="sponsor.links">
+      <!-- <ul v-if="sponsor.links">
         <li v-for="link of sponsor.links">
           <a :href="link.url" target="_blank" rel="noopener">{{ link.name }}</a>
         </li>
-      </ul>
+      </ul> -->
     </UnderConstruction>
   </template>
 </template>

@@ -1,13 +1,23 @@
 ---
 sponsors:
   - name: 'Cleverse'
-    url: 'https://cleverse.com/'
-    live: false
+    url: 'https://careers.cleverse.com/'
     image: 'https://user-images.githubusercontent.com/193136/167689309-13b590cd-d383-450d-996f-584a14737144.png'
+    message: |
+      Cleverse is a leading venture builder based in Thailand. We discover ideas to use technology to make the world a better place. The ideas are later validated, implemented, and measured. We are currently focusing on web3 space because we believe there are so many opportunities in web3 space. Also, we love Tailwind CSS! If you are a fan of Tailwind CSS or web3 and looking for a job opportunity, feel free to check our opening positions at https://careers.cleverse.com/.
+    links:
+      - name: Main Site
+        url: https://cleverse.com/
+      - name: Careers
+        url: https://careers.cleverse.com/
+      - name: Blog
+        url: https://medium.com/cleverse
   - name: 'Microsoft Thailand'
     url: 'https://aka.ms/CloudSkillsChallengeTH'
     live: false
     image: 'https://user-images.githubusercontent.com/193136/167690035-3f63c7b4-6618-4f8a-bbec-ff8d25c46b7f.png'
+    message: |
+      Microsoft เปิดรับสมัครนักศึกษา นักพัฒนา วิศวกร นักออกแบบ ผู้ประกอบการ และผู้ที่สนใจเข้าร่วมการแข่งขัน Virtual Hackathon แก้ปัญหาความท้าทายทางธุรกิจในโลกแห่งความเป็นจริงโดยใช้ Azure AI! เงินรางวัลรวมมูลค่า 12,000 เหรียญสหรัฐ
     links:
       - name: 'Thailand Cloud Skills Challenge'
         url: 'https://aka.ms/CloudSkillsChallengeTH'
@@ -15,16 +25,6 @@ sponsors:
         url: 'https://aka.ms/APACHackFY22'
       - name: 'Spark Tech Thailand - Tech ใกล้ตัว'
         url: 'https://web.facebook.com/SparkTechTH'
-    message: |
-      Microsoft เปิดรับสมัครนักศึกษา นักพัฒนา วิศวกร นักออกแบบ ผู้ประกอบการ และผู้ที่สนใจเข้าร่วมการแข่งขัน Virtual Hackathon แก้ปัญหาความท้าทายทางธุรกิจในโลกแห่งความเป็นจริงโดยใช้ Azure AI! เงินรางวัลรวมมูลค่า 12,000 เหรียญสหรัฐ
-  - name: 'Sponsor #1'
-    links:
-      - name: 'Link 1'
-        url: 'https://showdown.space'
-      - name: 'Link 2'
-        url: 'https://showdown.space'
-    message: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis eget sapien in faucibus. Mauris quis fermentum nisi. Fusce dui mauris, ornare in nunc vel, consequat posuere massa. Donec malesuada, mauris non hendrerit iaculis, augue urna dapibus dolor, a pulvinar sem eros eget nulla. Suspendisse varius, eros in ornare suscipit, velit orci vestibulum leo, eu facilisis ipsum felis nec arcu. Etiam sed consequat dui. Pellentesque sed bibendum risus. Vivamus sit amet finibus tortor, et tempor felis. Phasellus sit amet nunc in diam facilisis efficitur at nec lorem.
 ---
 
 # Code in the Wind #1
