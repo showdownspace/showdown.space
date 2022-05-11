@@ -16,10 +16,29 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
+    nav: [
+      {
+        text: 'Home',
+        link: '/',
+      },
+      {
+        text: 'Events',
+        link: '/events/',
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/showdownspace',
+      },
+      {
+        text: 'Discord',
+        link: 'https://discord.com/invite/d8zBzw2mem',
+      },
+    ],
     sidebar: [
       { text: 'Home', link: '/' },
       {
         text: 'Events',
+        link: '/events/',
         children: [
           { text: 'Code in the Wind #1', link: '/events/code-in-the-wind-1/' },
         ],
