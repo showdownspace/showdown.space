@@ -4,7 +4,7 @@ sponsors:
     url: 'https://careers.cleverse.com/'
     image: 'https://user-images.githubusercontent.com/193136/167689309-13b590cd-d383-450d-996f-584a14737144.png'
     message: |
-      Cleverse is a leading venture builder based in Thailand. We discover ideas to use technology to make the world a better place. The ideas are later validated, implemented, and measured. We are currently focusing on web3 space because we believe there are so many opportunities in web3 space. Also, we love Tailwind CSS! If you are a fan of Tailwind CSS or web3 and looking for a job opportunity, feel free to check our opening positions at https://careers.cleverse.com/.
+      Cleverse is a leading venture builder based in Thailand. We discover ideas to use technology to make the world a better place. The ideas are later validated, implemented, and measured. We are currently focusing on web3 space because we believe there are so many opportunities in web3 space. Also, we love Tailwind CSS! If you are a fan of Tailwind CSS or web3 and looking for a job opportunity, feel free to check our opening positions at <a target="_blank" rel="noopener" href="https://careers.cleverse.com/">https://careers.cleverse.com/</a>.
     links:
       - name: Main Site
         url: https://cleverse.com/
@@ -14,10 +14,9 @@ sponsors:
         url: https://medium.com/cleverse
   - name: 'Microsoft Thailand'
     url: 'https://aka.ms/CloudSkillsChallengeTH'
-    live: false
     image: 'https://user-images.githubusercontent.com/193136/167690035-3f63c7b4-6618-4f8a-bbec-ff8d25c46b7f.png'
     message: |
-      Working with Tailwind CSS in Visual Studio Code? Let IntelliSense extension help you with advanced features such as autocomplete, syntax highlighting, and linting. → https://github.com/tailwindlabs/tailwindcss-intellisense
+      Working with Tailwind CSS in Visual Studio Code? Let IntelliSense extension help you with advanced features such as autocomplete, syntax highlighting, and linting. → <a target="_blank" rel="noopener" href="https://github.com/tailwindlabs/tailwindcss-intellisense">https://github.com<wbr />/tailwindlabs<wbr />/tailwindcss-intellisense</a>
     links:
       - name: 'Thailand Cloud Skills Challenge'
         url: 'https://aka.ms/CloudSkillsChallengeTH'
