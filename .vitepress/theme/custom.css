@@ -50,6 +50,7 @@ h3 {
 }
 
 .showdownspace .nav-bar {
-  background-image: url(./header-bg.svg);
-  border-bottom-color: #393534;
+  background-image: url(./header-bg2.svg);
+  border-bottom-color: #1C1918;
+  border-bottom-width: 4px;
 }
