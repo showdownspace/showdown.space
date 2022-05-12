@@ -48,3 +48,8 @@ h3 {
   padding-top: 2rem;
   border-top: 1px solid #a8a29e33;
 }
+
+.showdownspace .nav-bar {
+  background-image: url(./header-bg.svg);
+  border-bottom-color: #393534;
+}

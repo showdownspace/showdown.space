@@ -14,6 +14,7 @@ export default defineConfig({
         href: 'https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500;600;700&display=swap',
       },
     ],
+    ['script', {}, 'document.documentElement.classList.add("showdownspace")'],
   ],
   themeConfig: {
     nav: [
