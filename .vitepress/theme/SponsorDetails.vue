@@ -9,7 +9,12 @@ const sponsors = useSponsors()
     <UnderConstruction :disabled="sponsor.live !== false">
       <h3 :id="sponsor.id">{{ sponsor.name }}</h3>
       <p>
-        <a :href="sponsor.url" target="_blank" rel="noopener">
+        <a
+          :href="sponsor.url"
+          target="_blank"
+          rel="noopener"
+          :data-ct="`sponsor_link_click|sponsor_name|${sponsor.name}|link_item|Banner`"
+        >
           <img :src="sponsor.image" :alt="sponsor.name" />
         </a>
       </p>
@@ -19,6 +24,7 @@ const sponsors = useSponsors()
           <a
             style="font-weight: 500"
             :href="link.url"
+            :data-ct="`sponsor_link_click|sponsor_name|${sponsor.name}|link_item|Text link - ${link.name}`"
             target="_blank"
             rel="noopener"
             >{{ link.name }}</a

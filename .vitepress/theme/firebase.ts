@@ -1,5 +1,5 @@
 import { initializeApp } from 'firebase/app'
-import { getAnalytics } from 'firebase/analytics'
+import { getAnalytics, logEvent } from 'firebase/analytics'
 
 const firebaseConfig = {
   apiKey: 'AIzaSyC2K76ycMyLhAYOd_XOa3aC3Cnqe6dEno0',
@@ -15,3 +15,4 @@ const firebaseConfig = {
 
 export const app = initializeApp(firebaseConfig)
 export const analytics = getAnalytics(app)
+export { logEvent }

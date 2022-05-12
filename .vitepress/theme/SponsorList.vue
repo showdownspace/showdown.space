@@ -14,7 +14,10 @@ const sponsors = useSponsors()
   >
     <template v-for="sponsor of sponsors" key="sponsor.id">
       <UnderConstruction :disabled="sponsor.live !== false">
-        <a :href="'#' + sponsor.id">
+        <a
+          :href="'#' + sponsor.id"
+          :data-ct="`sponsor_view_details|sponsor_name|${sponsor.name}`"
+        >
           <img :src="sponsor.image" />
         </a>
       </UnderConstruction>
