@@ -186,6 +186,12 @@ Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo tota
 </div>
 </div>
 
+### Solutions to example challenges
+
+<p>
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/pLYjDuwZ-Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 <UnderConstruction>
 
 ### Qualifiers #1
@@ -232,6 +238,6 @@ This game is inspired by:
 - [Code in the Dark](http://codeinthedark.com/)
 - [DevWars.tv](https://www.devwars.tv/)
 
-## Sponsor Details
+## Sponsor details
 
 <SponsorDetails />
