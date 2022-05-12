@@ -26,6 +26,27 @@ sponsors:
         url: 'https://aka.ms/Learn-Web-Dev-TH'
       - name: 'Web Wednesday'
         url: 'https://docs.microsoft.com/en-us/shows/web-wednesday'
+  - name: Brikl
+    url: 'https://brikl.com/career'
+    live: false
+    image: 'https://user-images.githubusercontent.com/193136/168154844-0c703932-075b-4f24-87e2-a22afdff86e5.jpg'
+    message: TBD
+    links: []
+  - name: Opn
+    url: 'https://www.opn.ooo/en/'
+    live: false
+    image: 'https://via.placeholder.com/1200x480'
+    message: |
+      We are Opn, a global company that provides fintech solutions and products to clients and users around the world. Our company name Opn (pronounced "open") captures the essence of what we believe in and stand for - a world where access to the digital economy is open for everyone. We aspire to facilitate all types of businesses in their adoption of cutting-edge financial technologies and connect our users through the Opn product ecosystem.
+    links:
+      - name: Opn Website
+        url: 'https://www.opn.ooo/en/'
+      - name: About Opn
+        url: 'https://www.opn.ooo/en/about-us/'
+      - name: Careers at Opn
+        url: 'https://www.opn.ooo/en/careers/'
+      - name: Apply to Opn Today
+        url: 'https://forms.gle/bePFAdcr2RXWiZ4VA'
 ---
 
 # Code in the Wind #1
