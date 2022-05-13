@@ -27,17 +27,19 @@ sponsors:
       - name: 'Web Wednesday'
         url: 'https://docs.microsoft.com/en-us/shows/web-wednesday'
   - name: Brikl
-    url: 'https://brikl.com/career'
+    url: 'https://brikl.com/jobs'
     live: false
-    image: 'https://user-images.githubusercontent.com/193136/168154844-0c703932-075b-4f24-87e2-a22afdff86e5.jpg'
+    image: 'https://user-images.githubusercontent.com/193136/168313579-77f4d7bc-0132-4c9a-882a-e4d329c09c50.jpeg'
     message: TBD
     links: []
   - name: Opn
     url: 'https://www.opn.ooo/en/'
     live: false
-    image: 'https://via.placeholder.com/1200x480'
+    image: 'https://user-images.githubusercontent.com/193136/168275532-75544f12-5e40-4fd4-8669-b978889f7a8c.jpg'
     message: |
       We are Opn, a global company that provides fintech solutions and products to clients and users around the world. Our company name Opn (pronounced "open") captures the essence of what we believe in and stand for - a world where access to the digital economy is open for everyone. We aspire to facilitate all types of businesses in their adoption of cutting-edge financial technologies and connect our users through the Opn product ecosystem.
+    # message: |
+    #   Welcome to the Opn Sponsored Code in the Wind #1 Event! We are Opn, a global company that provides fintech solutions and products to clients and users around the world. If you would like to get more information about career opportunities at Opn & Omise, please fill out this form and a member of the Talent Acquisition team will contact you about open career opportunities → <a target="_blank" rel="noopener" href="https://forms.gle/bePFAdcr2RXWiZ4VA">https://forms.gle/<wbr />bePFAdcr2RXWiZ4VA</a>
     links:
       - name: Opn Website
         url: 'https://www.opn.ooo/en/'
