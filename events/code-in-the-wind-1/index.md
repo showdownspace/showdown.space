@@ -28,10 +28,16 @@ sponsors:
         url: 'https://docs.microsoft.com/en-us/shows/web-wednesday'
   - name: Brikl
     url: 'https://brikl.com/jobs'
-    live: false
     image: 'https://user-images.githubusercontent.com/193136/168313579-77f4d7bc-0132-4c9a-882a-e4d329c09c50.jpeg'
-    message: TBD
-    links: []
+    message: |
+      Brikl is the leading e-commerce platform for microstores worldwide, where promotional businesses start selling in 15 minutes. We're an international team with a strong engineering culture. We value developer experience, code quality and experimentation. We work in small cross-functional teams where you have full ownership of the product from start to finish. If you enjoy working with GraphQL, TypeScript and React, join us at <a target="_blank" rel="noopener" href="https://brikl.com/jobs">https://brikl.com/jobs</a>.
+    links:
+      - name: 'brikl.com/jobs'
+        url: 'https://brikl.com/jobs'
+      - name: 'Building Brikl'
+        url: 'https://youtu.be/nPpzhMUJjPE'
+      - name: 'Our Product'
+        url: 'https://brikl.com'
   - name: Opn
     url: 'https://www.opn.ooo/en/'
     live: false
