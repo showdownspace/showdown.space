@@ -40,7 +40,6 @@ sponsors:
         url: 'https://brikl.com'
   - name: Opn
     url: 'https://www.opn.ooo/en/'
-    live: false
     image: 'https://user-images.githubusercontent.com/193136/168275532-75544f12-5e40-4fd4-8669-b978889f7a8c.jpg'
     message: |
       We are Opn, a global company that provides fintech solutions and products to clients and users around the world. Our company name Opn (pronounced "open") captures the essence of what we believe in and stand for - a world where access to the digital economy is open for everyone. We aspire to facilitate all types of businesses in their adoption of cutting-edge financial technologies and connect our users through the Opn product ecosystem.
