@@ -193,7 +193,7 @@ A game show for Tailwind CSS users.
 **Location:** [showdown.space Discord Server](https://discord.com/invite/d8zBzw2mem)
 
 ::: warning UNDER CONSTRUCTION
-This page is a stub. For the latest news, check out the [Facebook event page](https://www.facebook.com/events/5398524660192656/).
+This page is still not finished. For the latest news, check out the [Facebook event page](https://www.facebook.com/events/5398524660192656/).
 :::
 
 ## About Code in the Wind
@@ -219,10 +219,6 @@ This page is a stub. For the latest news, check out the [Facebook event page](ht
 ## Sponsors
 
 <SponsorList />
-
-## Participants
-
-<ParticipantsTable />
 
 ## Challenges
 
@@ -347,6 +343,10 @@ This page is a stub. For the latest news, check out the [Facebook event page](ht
 ### Finals #1
 
 </UnderConstruction>
+
+## Participants
+
+<ParticipantsTable />
 
 ## Staffs
 

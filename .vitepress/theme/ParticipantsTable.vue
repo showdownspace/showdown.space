@@ -18,20 +18,11 @@ export default defineComponent({
 
 
 <template>
-  <table v-if="table">
-    <thead>
-      <tr>
-        <th style="width: 60%">Name</th>
-      </tr>
-    </thead>
-    <tbody>
-      <template v-for="item, index of table">
-        <tr>
-          <td>
-            <Participant :participant="item" />
-          </td>
-        </tr>
-      </template>
-    </tbody>
-  </table>
+  <ul v-if="table">
+    <template v-for="item, index of table">
+      <li>
+        <Participant :participant="item" />
+      </li>
+    </template>
+  </ul>
 </template>
