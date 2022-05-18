@@ -43,8 +43,6 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/168275532-75544f12-5e40-4fd4-8669-b978889f7a8c.jpg'
     message: |
       We are Opn, a global company that provides fintech solutions and products to clients and users around the world. Our company name Opn (pronounced "open") captures the essence of what we believe in and stand for - a world where access to the digital economy is open for everyone. We aspire to facilitate all types of businesses in their adoption of cutting-edge financial technologies and connect our users through the Opn product ecosystem.
-    # message: |
-    #   Welcome to the Opn Sponsored Code in the Wind #1 Event! We are Opn, a global company that provides fintech solutions and products to clients and users around the world. If you would like to get more information about career opportunities at Opn & Omise, please fill out this form and a member of the Talent Acquisition team will contact you about open career opportunities → <a target="_blank" rel="noopener" href="https://forms.gle/bePFAdcr2RXWiZ4VA">https://forms.gle/<wbr />bePFAdcr2RXWiZ4VA</a>
     links:
       - name: Opn Website
         url: 'https://www.opn.ooo/en/'
@@ -54,6 +52,137 @@ sponsors:
         url: 'https://www.opn.ooo/en/careers/'
       - name: Apply to Opn Today
         url: 'https://forms.gle/bePFAdcr2RXWiZ4VA'
+ranking:
+  finals:
+    - score: 85
+      participant:
+        handle: Varkaria
+        handleUrl: https://github.com/Varkaria
+        name: Pavaresorn Malai
+    - score: 61
+      participant:
+        handle: GGolfz
+        handleUrl: https://github.com/GGolfz
+        name: GGolfz
+    - score: 46
+      participant:
+        handle: msp5382
+        handleUrl: https://github.com/msp5382
+        name: p16w
+    - score: 19
+      participant:
+        handle: Runyasak Ch.#7227
+  semifinals1:
+    - score: 91
+      participant:
+        handle: msp5382
+        handleUrl: https://github.com/msp5382
+        name: p16w
+    - score: 70
+      participant:
+        handle: Runyasak Ch.#7227
+    - score: 69
+      participant:
+        handle: rootEnginear
+        handleUrl: https://github.com/rootEnginear
+        name: Suthep Chanchuphol
+    - score: 49
+      participant:
+        handle: phanuprat
+        handleUrl: https://github.com/phanuprat
+        name: Phanuprat Suwannachan
+  semifinals2:
+    - score: 61
+      participant:
+        handle: Varkaria
+        handleUrl: https://github.com/Varkaria
+        name: Pavaresorn Malai
+    - score: 54
+      participant:
+        handle: GGolfz
+        handleUrl: https://github.com/GGolfz
+        name: GGolfz
+    - score: 40
+      participant:
+        handle: rayriffy
+        handleUrl: https://github.com/rayriffy
+        name: Phumrapee Limpianchop
+    - score: 34
+      participant:
+        handle: nitpum
+        handleUrl: https://github.com/nitpum
+        name: nitpum
+participants:
+  - handle: Basone01
+    handleUrl: https://github.com/Basone01
+    name: Surachet Sangasaeng
+  - handle: Bearfinn
+    handleUrl: https://github.com/Bearfinn
+    name: Kritsada Sunthornwutthikrai
+  - handle: betich
+    handleUrl: https://github.com/betich
+    name: thee
+  - handle: bossoq
+    handleUrl: https://github.com/bossoq
+    name: Kittipos 'Pos' Wajakajornrit
+  - handle: bytesbanana
+    handleUrl: https://github.com/bytesbanana
+    name: Saharat Paynok
+  - handle: F9Uf
+    handleUrl: https://github.com/F9Uf
+    name: null
+  - handle: fResult
+    handleUrl: https://github.com/fResult
+    name: fResult
+  - handle: GGolfz
+    handleUrl: https://github.com/GGolfz
+    name: GGolfz
+  - handle: Gusb3ll
+    handleUrl: https://github.com/Gusb3ll
+    name: Kitpipat Jaritwong
+  - handle: icegotcha
+    handleUrl: https://github.com/icegotcha
+    name: Kotchakorn Wongwisutigul
+  - handle: kittichonJr
+    handleUrl: https://github.com/kittichonJr
+    name: null
+  - handle: Leomotors
+    handleUrl: https://github.com/Leomotors
+    name: Nutthapat Pongtanyavichai
+  - handle: mikkipastel
+    handleUrl: https://github.com/mikkipastel
+    name: Monthira Chayabanjonglerd
+  - handle: msp5382
+    handleUrl: https://github.com/msp5382
+    name: p16w
+  - handle: nitpum
+    handleUrl: https://github.com/nitpum
+    name: nitpum
+  - handle: NNICEEt
+    handleUrl: https://github.com/NNICEEt
+    name: Teerapat Nayapan
+  - handle: phanuprat
+    handleUrl: https://github.com/phanuprat
+    name: Phanuprat Suwannachan
+  - handle: rayriffy
+    handleUrl: https://github.com/rayriffy
+    name: Phumrapee Limpianchop
+  - handle: rootEnginear
+    handleUrl: https://github.com/rootEnginear
+    name: Suthep Chanchuphol
+  - handle: Runyasak Ch.#7227
+  - handle: safepawin
+    handleUrl: https://github.com/safepawin
+    name: PawinDev
+  - handle: SaltyAom
+    handleUrl: https://github.com/SaltyAom
+    name: SaltyAom
+  - handle: tinarskii
+    handleUrl: https://github.com/tinarskii
+    name: Tinnaphat "Tin" Somsang
+  - handle: Varkaria
+    handleUrl: https://github.com/Varkaria
+    name: Pavaresorn Malai
 ---
 
 # Code in the Wind #1
@@ -73,57 +202,27 @@ This page is a stub. For the latest news, check out the [Facebook event page](ht
 
 ![](./format.jpeg)
 
-<UnderConstruction>
-
 ## Final ranking
 
-<table>
-<thead>
-<tr>
-<th>#</th>
-<th style="width: 80%">Name</th>
-<th>Score</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="2">1.</td>
-<td><strong><a href="">@githubuser</a></strong> (Full Name)</td>
-<td>99</td>
-</tr>
-<tr>
-<td colspan="2" style="font-size: 0.8em">
-Nesciunt mollitia, ab deserunt recusandae deleniti sapiente eveniet earum officiis consequatur error eos voluptatem eligendi officia totam laboriosam, itaque quam quis.
-</td>
-</tr>
-<tr>
-<td rowspan="2">2.</td>
-<td>DiscordUser#1234</td>
-<td>98</td>
-</tr>
-<tr>
-<td colspan="2" style="font-size: 0.8em">
-Debitis reiciendis non quidem molestias vero libero dolorem voluptas doloremque quasi explicabo inventore, perspiciatis culpa quis minima nam velit.
-</td>
-</tr>
-<tr>
-<td rowspan="2">3.</td>
-<td><span style="opacity:0.64">(anonymous)</span></td>
-<td>97</td>
-</tr>
-<tr>
-<td colspan="2" style="font-size: 0.8em">
-Officiis dolor vero expedita eos deleniti velit, magnam placeat. Harum nemo totam nobis beatae maxime, assumenda, aspernatur commodi debitis molestias ducimus aliquam repellat.
-</td>
-</tr>
-</tbody>
-</table>
+### Final round
 
-</UnderConstruction>
+<RankingTable tableName="finals" />
+
+### Semi-finals #1
+
+<RankingTable tableName="semifinals1" />
+
+### Semi-finals #2
+
+<RankingTable tableName="semifinals2" />
 
 ## Sponsors
 
 <SponsorList />
+
+## Participants
+
+<ParticipantsTable />
 
 ## Challenges
 
