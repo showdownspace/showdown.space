@@ -5,6 +5,7 @@ export default defineConfig({
   description:
     'We host community events in the form of recreational tech contests',
   head: [
+    ['link', { rel: 'icon', href: '/icon.png' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com' }],
     [
