@@ -52,6 +52,28 @@ sponsors:
         url: 'https://www.opn.ooo/en/careers/'
       - name: Apply to Opn Today
         url: 'https://forms.gle/bePFAdcr2RXWiZ4VA'
+  - name: Dev Mountain Tech Festival
+    url: 'https://www.facebook.com/devmountaintechfestival/'
+    image: 'https://user-images.githubusercontent.com/193136/169654266-0cd349ee-ae71-450f-b8b0-b099d0c1a94b.png'
+    message: |
+      Devclub is a community that unites people who love to develop applications with six main concepts: Community, Connection, Collaboration, Commercial, Create values, and Continuous. Furthermore, to share knowledge, organize training, and provide technical consultations. Finally, to solve problems and create value for group members in a sustainable way.
+    links:
+      - name: Facebook Page
+        url: 'https://www.facebook.com/devmountaintechfestival/'
+      - name: YouTube
+        url: 'https://www.youtube.com/channel/UCb9bl6KqJVBkFribwGamUHA'
+  - name: React ไปวันๆ
+    url: 'https://www.facebook.com/devMasterSomeday'
+    image: 'https://user-images.githubusercontent.com/193136/169654281-695ccab5-7c36-4064-a662-4a3f663dfe1e.jpeg'
+    message: |
+      React ไปวันๆ คือเพจที่ผมสร้างไว้เพื่อแชร์ประสบการณ์และให้ความรู้เกี่ยวกับ React, CSS, Typescript และ Unit tests
+    links:
+      - name: Facebook Page
+        url: 'https://www.facebook.com/devMasterSomeday'
+      - name: Live Videos
+        url: 'https://www.facebook.com/devMasterSomeday/live_videos/'
+      - name: 'React Foundation (Free Online Course)'
+        url: 'https://www.youtube.com/playlist?list=PLLPNfc7CgMywiG-R6Jix_w8zqF_fxZFxr'
 ranking:
   finals:
     - score: 85
@@ -185,6 +207,11 @@ participants:
     name: Pavaresorn Malai
 ---
 
+<script>
+  import Challenge from './Challenge.vue'
+  export default { components: { Challenge } }
+</script>
+
 # Code in the Wind #1
 
 A game show for Tailwind CSS users.
@@ -208,13 +235,19 @@ This page is still not finished. For the latest news, check out the [Facebook ev
 
 <RankingTable tableName="finals" />
 
+[&rarr; See the challenge](#finals-control-room)
+
 ### Semi-finals #1
 
 <RankingTable tableName="semifinals1" />
 
+[&rarr; See the challenge](#semi-finals-1-instagram-story)
+
 ### Semi-finals #2
 
 <RankingTable tableName="semifinals2" />
+
+[&rarr; See the challenge](#semi-finals-2-numpad)
 
 ## Sponsors
 
@@ -222,92 +255,32 @@ This page is still not finished. For the latest news, check out the [Facebook ev
 
 ## Challenges
 
-<style scoped>
-  .challenge {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row-reverse;
-    gap: 1rem;
-  }
-  .challenge-reference {
-    flex: 1 0 270px;
-    width: 270px;
-    text-align: center;
-    margin-top: 1rem;
-  }
-  .challenge-reference img {
-    width: 270px;
-    box-shadow: 0 0.2rem 0.5rem #0004;
-  }
-  .challenge-objectives {
-    font-size: 0.875em;
-    flex: 99999 1 64%;
-  }
-  .challenge-objectives > ul {
-    padding-left: 0;
-  }
-  .challenge-objectives > ul > li {
-    margin-bottom: 0.5rem;
-  }
-  .roundresults {
-    display: flex;
-    gap: 0.5rem;
-  }
-  .roundresults-item {
-    flex: 1 0 0;
-    font-size: 0.75rem;
-    text-align: center;
-  }
-  .roundresults-item img {
-    box-shadow: 0 0.1rem 0.25rem #0004;
-  }
-</style>
+The challenge in each round comes with
 
-### Example challenge #1
+- A reference screenshot
+- 5 objectives to meet
 
-<div class="challenge">
-<div class="challenge-reference">
-<img src="https://citw01.pages.dev/example/reference.png">
-</div>
-<div class="challenge-objectives">
+Completing each objective will earn you 15 points (for a total of 75 points). The remaining 25 points will be determined by viewers’ votes.
 
-- สร้างปุ่มกดรหัสผ่าน เป็นกริด มี 4 แถว แต่ละแถวมี 3 คอลัมน์
-  - ประกอบไปด้วยปุ่มตามนี้: ((1, 2, 3), (4, 5, 6), (7, 8, 9), (0, delete))
-  - ปุ่มตัวเลขเป็นรูปวงกลม มีขอบสีเทา ส่วนตัวเลขให้จัดให้อยู่ตรงกลางข้างในวงกลม โดยแต่ละปุ่มควรเว้นระยะห่างระหว่างกัน
-  - ปุ่ม delete ไม่มีขอบ ใช้รูปจาก URL นี้ได้เลย [`https://i.showdown.space/e01/delete-icon.svg`](https://i.showdown.space/e01/delete-icon.svg)
-- สร้างวงกลม 6 วงเล็กๆ เรียงกัน เพื่อแสดงสถานะการใส่รหัสผ่าน PIN
-  - ให้วงกลม 2 วงแรกเป็นสีทึบ
-- ใส่ข้อความ “กรุณาใส่รหัสผ่าน” ตรงด้านบน
-- ใส่ข้อความ “ลืมรหัสผ่าน” ตรงข้างล่าง
-  - เนื่องจากเป็นลิงค์ สีควรจะแตกต่างจากสีข้อความทั่วไป และมีขีดเส้นใต้
-- ใส่ปุ่มปิดเป็นรูปกากบาท ตรงมุมบนขวาของหน้าจอ
-  - ไม่มีรูปให้ ให้วาดเองด้วย HTML
-  - เส้นของกากบาทควรหนาแค่ 1px เท่านั้น
+### Example #1: Pinpad
 
-</div>
-</div>
+<Challenge url='https://citw01.pages.dev/example/'>
 
-### Example challenge #2
+This example challenge focuses on creating an everyday UI components using Tailwind CSS.
 
-<div class="challenge">
-<div class="challenge-reference">
-<img src="https://citw01.pages.dev/example2/reference.png">
-</div>
-<div class="challenge-objectives">
+It uses basic web development knowledge, such as using the flexbox layout, dealing with margins and padding, creating rounded corners, and working with backgrounds and borders.
 
-- ใส่ข้อความ _Game format_ ขนาดใหญ่ เป็นตัวหนา
-- สร้างข้อความสามแถว สำหรับรอบ _Qualifiers_, _Semi-finals_ และ _Finals_ ตามรูป
-  - Qualifiers มี 4 รอบ
-  - Semi-finals มี 2 รอบ
-  - Finals มีรอบเดียว
-- ใต้ข้อความของแต่ละรอบ ใส่วงกลมตามจำนวนคนในรอบ
-  - Qualifiers รอบละ 8 คน
-  - Semi-finals กับ Finals รอบละ 4 คน
-- ทำให้วงกลมเป็นเส้นประ ยกเว้นคนที่ผ่านเข้ารอบต่อไปหรืออยู่ในรอบ Finals ให้ทำเป็นเส้นทึบและมีพื้นหลังอ่อนๆ ตามรูป
-- ทำเส้นเชื่อมจากรอบ Qualifiers → Semi-finals และ Semi-finals → Finals
+</Challenge>
 
-</div>
-</div>
+### Example #2: Game Format
+
+<Challenge url='https://citw01.pages.dev/example2/'>
+
+This example challenge focuses on quickly drawing using Tailwind CSS.
+
+Challenges includes creating dashed lines and drawing connecting lines between different stages of the game.
+
+</Challenge>
 
 ### Solutions to example challenges
 
@@ -315,34 +288,77 @@ This page is still not finished. For the latest news, check out the [Facebook ev
 <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/pLYjDuwZ-Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<UnderConstruction>
+### Qualifiers #1: Chat
 
-### Qualifiers #1
+<Challenge url='https://citw01.pages.dev/chat-0e60e3c93b8c2c95/'>
 
-<div class="roundresults">
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-<div class="roundresults-item"><img src="https://placehold.co/540x720"><div>name of</div></div>
-</div>
+This challenge focuses basic web development knowledge, such as using the flexbox layout, dealing with margins and padding, creating rounded corners, and working with backgrounds and borders.
 
-### Qualifiers #2
+One tricky part of this challenge is that the adjacent corners between the 2nd and the 3rd message must not be rounded. Also, the gap between consecutive messages from the same person needs to be smaller than the gap between messages from different people.
 
-### Qualifiers #3
+</Challenge>
 
-### Qualifiers #4
+### Qualifiers #2: Pastel Collage
 
-### Semi-finals #1
+<Challenge url='https://citw01.pages.dev/pastel-5286296b0da6/'>
 
-### Semi-finals #2
+This challenge focuses on responsive web design.
 
-### Finals #1
+The main challenge is to maintain the aspect ratio of each element when the window is resized, while still making sure that the total width adds up to the width of the container.
 
-</UnderConstruction>
+</Challenge>
+
+### Qualifiers #3: Instagram Post
+
+<Challenge url='https://citw01.pages.dev/post-6a06d23ec804/'>
+
+This challenge focuses on recreating a UI of a familiar app.
+
+This round places some emphasis on efficiency, as there are many details that has to be created from scratch, such as the kebab menu, the dotted pagination indicator, and the gradient ring around the profile picture.
+
+</Challenge>
+
+### Qualifiers #4: Checkerboard
+
+<Challenge url='https://citw01.pages.dev/checkerboard-ff1ab93498a6/'>
+
+This challenge focuses on correctly positioning and stacking things that may overlap each other.
+
+It also places focus on the efficiency, as there are 64 squares in the checkerboard that must have alternating colors.
+
+</Challenge>
+
+### Semi-finals #1: Instagram Story
+
+<Challenge url='https://citw01.pages.dev/story-72dab0f0b9b3/' rankingUrl='#semi-finals-1'>
+
+This challenge focuses on creating a high-fidelity UI within a limited amount of time.
+
+Efficiency is a key factor as there are many components, such as the story bar, the input boxes, the stickers, and the circular profile pictures, one of which must stick out of the sticker.
+
+Some elements are placed arbitrarily on the page, so knowing how to use absolute positioning can also help.
+
+</Challenge>
+
+### Semi-finals #2: Numpad
+
+<Challenge url='https://citw01.pages.dev/numpad-21869191764e/' rankingUrl='#semi-finals-2'>
+
+This challenge requires creating a grid of buttons, but some of the buttons can span multiple rows or columns. The contestant must also maintain the aspect ratio of each button. This can usually be most easily done using either a grid layout, an absolute layout, or a table layout.
+
+</Challenge>
+
+### Finals: Control Room
+
+<Challenge url='https://citw01.pages.dev/control-room-bb26bb872b3f/' rankingUrl='#final-round'>
+
+Inspired by the [control room scene from Squid Game](https://images.app.goo.gl/G3CijnEhS9rfykWB6), this challenge combines many areas of CSS knowledge.
+
+CSS transforms are used to rotate the grid by 45 degrees. An extra rotation is added to keep the numbers and pictures inside the grid unrotated.
+
+CSS filters and blend modes are used to apply filter to the cat images to give them a pink shade, as the provided cat images are full of color.
+
+</Challenge>
 
 ## Participants
 
