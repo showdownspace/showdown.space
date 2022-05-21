@@ -3,6 +3,8 @@ export default {
   props: {
     url: String,
     rankingUrl: String,
+    submissionsUrl: String,
+    referenceUrl: String,
   }
 }
 </script>
@@ -19,6 +21,14 @@ export default {
       <template v-if="rankingUrl">
         <br>
         <a :href="rankingUrl">&rarr; See ranking</a>
+      </template>
+      <template v-if="referenceUrl">
+        <br>
+        <a :href="referenceUrl">&rarr; See reference code</a>
+      </template>
+      <template v-if="submissionsUrl">
+        <br>
+        <a :href="submissionsUrl">&rarr; See all submissions</a>
       </template>
     </p>
   </div>

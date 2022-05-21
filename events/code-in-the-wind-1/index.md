@@ -219,15 +219,17 @@ A game show for Tailwind CSS users.
 **Date:** Tuesday, May 17, 2022 @ 19:00 (+7:00) \
 **Location:** [showdown.space Discord Server](https://discord.com/invite/d8zBzw2mem)
 
-::: warning UNDER CONSTRUCTION
-This page is still not finished. For the latest news, check out the [Facebook event page](https://www.facebook.com/events/5398524660192656/).
-:::
-
 ## About Code in the Wind
 
 **Code in the Wind** is a game show where contestants implement a web page according to the reference screenshot and a set of objectives using [Tailwind CSS](https://tailwindcss.com/).
 
 ![](./format.jpeg)
+
+## Livestream recording
+
+<p>
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://player.twitch.tv/?video=v1490280508&autoplay=false&parent=showdown.space&parent=localhost" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Final ranking
 
@@ -288,9 +290,19 @@ Challenges includes creating dashed lines and drawing connecting lines between d
 <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/pLYjDuwZ-Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+### Test round: Manoonchai
+
+<Challenge url='https://citw01.pages.dev/incomplete-looped-square-706d072eb78493ad/' referenceUrl='https://play.tailwindcss.com/Wi0SIYqZRE?size=540x720'>
+
+This challenge is for a test round, where we test the streaming setup and the various systems of the game.
+
+The challenge in this round is to recreate the [Manoonchai keyboard layout](https://manoonchai.com/)’s logo with only HTML and Tailwind CSS.
+
+</Challenge>
+
 ### Qualifiers #1: Chat
 
-<Challenge url='https://citw01.pages.dev/chat-0e60e3c93b8c2c95/'>
+<Challenge url='https://citw01.pages.dev/chat-0e60e3c93b8c2c95/' submissionsUrl='https://citw01.pages.dev/submissions/#qualifiers-1' referenceUrl='https://play.tailwindcss.com/4QWIHaL7dA?size=540x720'>
 
 This challenge focuses basic web development knowledge, such as using the flexbox layout, dealing with margins and padding, creating rounded corners, and working with backgrounds and borders.
 
@@ -300,7 +312,7 @@ One tricky part of this challenge is that the adjacent corners between the 2nd a
 
 ### Qualifiers #2: Pastel Collage
 
-<Challenge url='https://citw01.pages.dev/pastel-5286296b0da6/'>
+<Challenge url='https://citw01.pages.dev/pastel-5286296b0da6/' submissionsUrl='https://citw01.pages.dev/submissions/#qualifiers-2' referenceUrl='https://play.tailwindcss.com/zgZtMF3EaX?size=588x720'>
 
 This challenge focuses on responsive web design.
 
@@ -310,7 +322,7 @@ The main challenge is to maintain the aspect ratio of each element when the wind
 
 ### Qualifiers #3: Instagram Post
 
-<Challenge url='https://citw01.pages.dev/post-6a06d23ec804/'>
+<Challenge url='https://citw01.pages.dev/post-6a06d23ec804/' submissionsUrl='https://citw01.pages.dev/submissions/#qualifiers-3' referenceUrl='https://play.tailwindcss.com/c9bhbnTUta?size=540x720'>
 
 This challenge focuses on recreating a UI of a familiar app.
 
@@ -320,7 +332,7 @@ This round places some emphasis on efficiency, as there are many details that ha
 
 ### Qualifiers #4: Checkerboard
 
-<Challenge url='https://citw01.pages.dev/checkerboard-ff1ab93498a6/'>
+<Challenge url='https://citw01.pages.dev/checkerboard-ff1ab93498a6/' submissionsUrl='https://citw01.pages.dev/submissions/#qualifiers-4' referenceUrl='https://play.tailwindcss.com/ujoPL42WsQ?size=540x720'>
 
 This challenge focuses on correctly positioning and stacking things that may overlap each other.
 
@@ -330,7 +342,7 @@ It also places focus on the efficiency, as there are 64 squares in the checkerbo
 
 ### Semi-finals #1: Instagram Story
 
-<Challenge url='https://citw01.pages.dev/story-72dab0f0b9b3/' rankingUrl='#semi-finals-1'>
+<Challenge url='https://citw01.pages.dev/story-72dab0f0b9b3/' rankingUrl='#semi-finals-1' submissionsUrl='https://citw01.pages.dev/submissions/#semi-finals-1' referenceUrl='https://play.tailwindcss.com/C8gN1xaKCb?size=540x720'>
 
 This challenge focuses on creating a high-fidelity UI within a limited amount of time.
 
@@ -342,7 +354,7 @@ Some elements are placed arbitrarily on the page, so knowing how to use absolute
 
 ### Semi-finals #2: Numpad
 
-<Challenge url='https://citw01.pages.dev/numpad-21869191764e/' rankingUrl='#semi-finals-2'>
+<Challenge url='https://citw01.pages.dev/numpad-21869191764e/' rankingUrl='#semi-finals-2' submissionsUrl='https://citw01.pages.dev/submissions/#semi-finals-2' referenceUrl='https://play.tailwindcss.com/GVF7dBIkSx?size=540x720'>
 
 This challenge requires creating a grid of buttons, but some of the buttons can span multiple rows or columns. The contestant must also maintain the aspect ratio of each button. This can usually be most easily done using either a grid layout, an absolute layout, or a table layout.
 
@@ -350,7 +362,7 @@ This challenge requires creating a grid of buttons, but some of the buttons can 
 
 ### Finals: Control Room
 
-<Challenge url='https://citw01.pages.dev/control-room-bb26bb872b3f/' rankingUrl='#final-round'>
+<Challenge url='https://citw01.pages.dev/control-room-bb26bb872b3f/' rankingUrl='#final-round' submissionsUrl='https://citw01.pages.dev/submissions/#finals' referenceUrl='https://play.tailwindcss.com/M2ta4qfLFv?size=540x720'>
 
 Inspired by the [control room scene from Squid Game](https://images.app.goo.gl/G3CijnEhS9rfykWB6), this challenge combines many areas of CSS knowledge.
 
