@@ -5,6 +5,8 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/167689309-13b590cd-d383-450d-996f-584a14737144.png'
     message: |
       Cleverse is a leading venture builder based in Thailand. We discover ideas to use technology to make the world a better place. The ideas are later validated, implemented, and measured. We are currently focusing on web3 space because we believe there are so many opportunities in web3 space. Also, we love Tailwind CSS! If you are a fan of Tailwind CSS or web3 and looking for a job opportunity, feel free to check our opening positions at <a target="_blank" rel="noopener" href="https://careers.cleverse.com/">https://careers.cleverse.com/</a>.
+    contributed: |
+      an AirPods Max into the prize pool (selected by 2nd ranked contestant).
     links:
       - name: Main Site
         url: https://cleverse.com/
@@ -17,6 +19,8 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/167690035-3f63c7b4-6618-4f8a-bbec-ff8d25c46b7f.png'
     message: |
       Working with Tailwind CSS in Visual Studio Code? Let IntelliSense extension help you with advanced features such as autocomplete, syntax highlighting, and linting. → <a target="_blank" rel="noopener" href="https://github.com/tailwindlabs/tailwindcss-intellisense">https://github.com<wbr />/tailwindlabs<wbr />/tailwindcss-intellisense</a>
+    contributed: |
+      a prize bundle into the prize pool (selected by 4th ranked contestant). The prize bundle consists of (1) a free Microsoft certification exam voucher, (2) a career mentoring session with a senior Microsoft executive, (3) a digital tree on Ecomatcher, and (4) 3 months of PC game pass.
     links:
       - name: 'Thailand Cloud Skills Challenge'
         url: 'https://aka.ms/CloudSkillsChallengeTH'
@@ -31,6 +35,8 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/168313579-77f4d7bc-0132-4c9a-882a-e4d329c09c50.jpeg'
     message: |
       Brikl is the leading e-commerce platform for microstores worldwide, where promotional businesses start selling in 15 minutes. We're an international team with a strong engineering culture. We value developer experience, code quality and experimentation. We work in small cross-functional teams where you have full ownership of the product from start to finish. If you enjoy working with GraphQL, TypeScript and React, join us at <a target="_blank" rel="noopener" href="https://brikl.com/jobs">https://brikl.com/jobs</a>.
+    contributed: |
+      a prize bundle into the prize pool (selected by 3rd ranked contestant). The prize bundle consists of (1) a black Brikl T-shirt, (2) a white Brikl T-shirt, (3) a Brikl hoodie, and (4) a THB 15,000 Central Gift Card.
     links:
       - name: 'brikl.com/jobs'
         url: 'https://brikl.com/jobs'
@@ -43,6 +49,8 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/168275532-75544f12-5e40-4fd4-8669-b978889f7a8c.jpg'
     message: |
       We are Opn, a global company that provides fintech solutions and products to clients and users around the world. Our company name Opn (pronounced "open") captures the essence of what we believe in and stand for - a world where access to the digital economy is open for everyone. We aspire to facilitate all types of businesses in their adoption of cutting-edge financial technologies and connect our users through the Opn product ecosystem.
+    contributed: |
+      a cash prize of THB 10,000 into the prize pool (selected by 1st ranked contestant).
     links:
       - name: Opn Website
         url: 'https://www.opn.ooo/en/'
@@ -57,6 +65,8 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/169654266-0cd349ee-ae71-450f-b8b0-b099d0c1a94b.png'
     message: |
       Devclub is a community that unites people who love to develop applications with six main concepts: Community, Connection, Collaboration, Commercial, Create values, and Continuous. Furthermore, to share knowledge, organize training, and provide technical consultations. Finally, to solve problems and create value for group members in a sustainable way.
+    contributed: |
+      a Dev Mountain shirt, a hackathon pass and a conference pass to Dev Mountain Tech Festival #2, for every finalist.
     links:
       - name: Facebook Page
         url: 'https://www.facebook.com/devmountaintechfestival/'
@@ -67,6 +77,8 @@ sponsors:
     image: 'https://user-images.githubusercontent.com/193136/169654281-695ccab5-7c36-4064-a662-4a3f663dfe1e.jpeg'
     message: |
       React ไปวันๆ คือเพจที่ผมสร้างไว้เพื่อแชร์ประสบการณ์และให้ความรู้เกี่ยวกับ React, CSS, Typescript และ Unit tests
+    contributed: |
+      an official Tailwind CSS T-shirt for the 1st place winner.
     links:
       - name: Facebook Page
         url: 'https://www.facebook.com/devMasterSomeday'

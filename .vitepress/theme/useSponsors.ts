@@ -15,6 +15,7 @@ export function useSponsors() {
         image: s.image || 'https://placehold.co/1200x480',
         links: s.links,
         message: s.message,
+        contributed: s.contributed,
       }
     })
   })
