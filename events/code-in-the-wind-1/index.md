@@ -240,7 +240,7 @@ A game show for Tailwind CSS users.
 ## Livestream recording
 
 <p>
-<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://player.twitch.tv/?video=v1490280508&autoplay=false&parent=showdown.space&parent=localhost" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://player.twitch.tv/?video=v1490280508&autoplay=false&parent=showdown.space&parent=localhost" title="Twitch video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## Final ranking
