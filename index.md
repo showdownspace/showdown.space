@@ -8,6 +8,6 @@ tagline: We host community events in the form of recreational tech contests
 
 <div style="text-align: center">
 
-This website is under construction; meanwhile, check out our [GitHub org](https://github.com/showdownspace)!
+See the [events](events/) page for more information.
 
 </div>
