@@ -24,7 +24,7 @@ export default {
       </template>
       <template v-if="referenceUrl">
         <br>
-        <a :href="referenceUrl">&rarr; See reference code</a>
+        <a :href="referenceUrl">&rarr; See source code</a>
       </template>
       <template v-if="submissionsUrl">
         <br>
