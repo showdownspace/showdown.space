@@ -20,11 +20,4 @@ We assume that many programming languages will be represented, so we hope that t
 
 ## Looking for sponsors
 
-We are looking for sponsors for this event in the following areas:
-
-- **Prize** — Add your prize to the [prize pool](https://creatorsgarten.org/wiki/PrizePoolSystem) for winners to choose from.
-- **Meals** — Order a meal for 50 people and deliver it to the event venue.
-
-When you sponsor, you are contributing to the tech community in Thailand and we’ll recognize your contributions by promoting your sponsorship on our website ([example](https://showdown.space/events/code-in-the-wind-1/#sponsors)), on social media ([example](https://www.facebook.com/events/5398524660192656/?post_id=5432966586748463)), and during the event.
-
-More information to be announced. Meanwhile, please feel free to contact the event organizers to let us know your interest!
+[More info here](https://creatorsgarten.org/wiki/Sponsorship/golf1)
