@@ -18,6 +18,13 @@ In each round, participants receive a programming problem and write a program th
 
 We assume that many programming languages will be represented, so we hope that the participants can learn about programming languages that they may not use often, and find useful ideas in other programming languages that they can apply to their work.
 
+## Registration
+
+Registration will open soon. Please follow our Facebook pages for latest updates:
+
+- [Creatorsgarten](https://www.facebook.com/creatorsgarten)
+- [showdown.space](https://www.facebook.com/showdown.space)
+
 ## Looking for sponsors
 
 [More info here](https://creatorsgarten.org/wiki/Sponsorship/golf1)
