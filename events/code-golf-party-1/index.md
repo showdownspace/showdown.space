@@ -21,3 +21,10 @@ We assume that many programming languages will be represented, so we hope that t
 ## Looking for sponsors
 
 [More info here](https://creatorsgarten.org/wiki/Sponsorship/golf1)
+
+## Staffs
+
+- [Chayapatr Archiwaranguprok](https://creatorsgarten.org/)
+- [Thai Pangsakulyanont](https://dt.in.th/)
+- Nattpapat Pinyopusarerk
+- [Phoomparin Mano](https://poom.dev/)
