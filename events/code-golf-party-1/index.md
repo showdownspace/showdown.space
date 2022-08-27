@@ -6,7 +6,7 @@
 A programming contest where participants try to solve problems with the smallest amount of code possible.
 
 **Date:** Friday, August 26, 2022 @ 18:00 (+7:00) \
-**Location:** TBA
+**Location:** [Copper Bar Bangkok](https://g.page/copper-bar-bangkok?share)
 
 ## About Code Golf Party
 
@@ -18,16 +18,42 @@ In each round, participants receive a programming problem and write a program th
 
 We assume that many programming languages will be represented, so we hope that the participants can learn about programming languages that they may not use often, and find useful ideas in other programming languages that they can apply to their work.
 
-## Registration
+## Application rounds
 
-Registration will open soon. Please follow our Facebook pages for latest updates:
+Due to the space constraints and safety concerns, only 60 people are allowed at the event.
 
-- [Creatorsgarten](https://www.facebook.com/creatorsgarten)
-- [showdown.space](https://www.facebook.com/showdown.space)
+With **over 200 applicants**, the application rounds are where the most intense code-golfing competition took place. (The actual event is more like a fun party than a serious competition.)
 
-## Looking for sponsors
+### Round 1
 
-[More info here](https://creatorsgarten.org/wiki/Sponsorship/golf1)
+Applicants are asked to write a program that displays the following output using the shortest code possible [(see full problem description)](https://hackmd.io/@dtinth/Hyk_qaAp5):
+
+```
+################
+#::::::::::::::#
+#::::::::::::::#
+#::::::::::::::#
+#::::::::::::::#
+#::::::::::::::#
+#::::::::::::::#
+################
+```
+
+Tickets are awarded to the top 10 applicants. Tickets are also awarded to 8 extra applicants who wrote the shortest code in each programming language (1 submission per language).
+
+### Round 2A
+
+Applicants are asked to write a program that lists all the 84 possible paths in the following directed acyclic graph using the shortest code possible [(see full problem description)](https://hackmd.io/@dtinth/HkoBY7eAq):
+
+![](https://i.imgur.com/34VlUUL.png)
+
+Tickets are awarded to the top 7 applicants.
+
+### Round 2B
+
+Applicants are asked to write a program that counts from 1 to 100 using the shortest code possible [(see full problem description)](https://hackmd.io/@dtinth/HkoBY7eAq).
+
+Tickets are awarded to the top 5 applicants who wrote the shortest code in each programming language (1 submission per language).
 
 ## Staffs
 
@@ -35,3 +61,11 @@ Registration will open soon. Please follow our Facebook pages for latest updates
 - [Thai Pangsakulyanont](https://dt.in.th/)
 - Nattpapat Pinyopusarerk
 - [Phoomparin Mano](https://poom.dev/)
+- [Manassarn Manoonchai](https://narze.live)
+- [Jarukit Jintanasathirakul](https://wit03.xyz/)
+- Pannawich Lohanimit
+- [Siravij Praevisavakij](https://github.com/siravijbb)
+- [Tanakorn Pisnupoomi](https://github.com/intaniger)
+- [Phumrapee Limpianchop](https://rayriffy.com/)
+- Chonlatee Jumratsee
+- [Supratouch Suwatno](https://www.supratouch.dev/)
