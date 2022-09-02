@@ -43,6 +43,7 @@ export default defineConfig({
         link: '/events/',
         children: [
           { text: 'Code in the Wind #1', link: '/events/code-in-the-wind-1/' },
+          { text: 'Code Golf Party #1', link: '/events/code-golf-party-1/' },
         ],
       },
     ],
