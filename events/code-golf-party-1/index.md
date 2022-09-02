@@ -1,4 +1,123 @@
 ---
+sponsors:
+  - name: BigBears.IO
+    url: https://www.facebook.com/bigbears.io
+    image: /images/sponsors/golf1/spon_bigbears.jpeg
+    message: BigBears.IO is a non-profit organization run by private funds, we believe in supporting developer community can bring greater outcomes for better future. We're not accepting any funds/investments. To support our activity, please follows us on Facebook for future activity.
+    links:
+      - name: Facebook Page
+        url: https://www.facebook.com/bigbears.io
+  - name: Nellika
+    url: https://nellika.co.th/
+    image: /images/sponsors/golf1/spon_nellika.jpg
+    message: We at Nellika hope y'all would enjoy the party. In case of emergency, find us at help@nellika.co.th ;)
+    links:
+      - name: Who we are
+        url: https://nellika.co.th/
+  - name: Moon Rhythm
+    url: https://moonrhythm.io/
+    image: /images/sponsors/golf1/spon_moonrhythm.png
+    message: |
+      panic: runtime error: invalid memory address or nil pointer dereference<br />[signal SIGSEGV: segmentation violation code=0x1 addr=0x0 pc=0x457782]
+    links:
+      - name: Website
+        url: https://moonrhythm.io/
+      - name: GitHub
+        url: https://github.com/moonrhythm
+      - name: Deploys.app
+        url: https://deploys.app/
+  - name: Eventpop
+    url: https://eventpop.me/
+    image: /images/sponsors/golf1/spon_evp.png
+    contributed: an event management platform for this event.
+    message: |
+      Eventpop is End-to-End platform for events and activities. Eventpop was founded in 2015. Over the past 7 years, we have been dedicated and bring our potential to create good experiences to the event in Thailand. We are looking for a talented Ruby on Rails engineer to help work on our ticketing and events platform. As a Ruby engineer, you’ll get to work on maintaining, improving, and building on top of a production app that serves 100s of thousands of users.
+    links:
+      - name: Website
+        url: https://eventpop.me/
+      - name: Facebook
+        url: https://www.facebook.com/eventpop
+      - name: Instagram
+        url: https://www.instagram.com/eventpop
+      - name: Apply for Ruby engineer position
+        url: https://www.opn.ooo/en/careers/4486530004/
+  - name: Cleverse
+    url: https://cleverse.com/
+    image: /images/sponsors/golf1/spon_cleverse.jpeg
+    contributed: meals for 50 participants in the event.
+    links:
+      - name: Main Site
+        url: https://cleverse.com/
+      - name: Careers
+        url: https://careers.cleverse.com/
+      - name: Blog
+        url: https://medium.com/cleverse
+  - name: Spark Tech Thailand
+    url: https://www.facebook.com/SparkTechTH
+    image: /images/sponsors/golf1/spon_msft.png
+    contributed: drinks for 50 participants in the event and gifts from Microsoft Azure.
+    message: |
+      หวังว่าทุกคนจะสนุกกับงาน Code Golf Party วันนี้ อย่าลืมแวะไปเยี่ยมชมเพจ Spark Tech Thailand บน Facebook และติดตามแหล่งเรียนรู้ที่ฟรีและดีสำหรับนักพัฒนากับ Microsoft ด้วยนะครับ
+    links:
+      - name: ไม่พลาดอัปเดตจาก Spark Tech Thailand
+        url: https://www.facebook.com/SparkTechTH
+      - name: สมัครรับจดหมายข่าว Microsoft.Source สำหรับนักพัฒนา
+        url: https://aka.ms/devTH
+  - name: iTAX
+    url: https://www.itax.in.th/
+    image: /images/sponsors/golf1/spon_itax.png
+    contributed: 1,000 THB of cash to the prize pool.
+    links:
+      - name: iTAX บริการด้านภาษี การลงทุน การประกัน ด้วยผู้เชี่ยวชาญ
+        url: https://www.itax.in.th/
+  - name: Skooldio Tech
+    url: https://www.skooldio.tech/
+    image: /images/sponsors/golf1/spon_skooldiotech.png
+    contributed: Apple AirTag, The Key by StackOverflow, and Skooldio discounts to the prize pool.
+    message: |
+      We're the tech partner you wished you had when you'd started your digital products. Skooldio Tech offers a full-fledged suite of services from User Research, UX/UI Design, Web/App Development, and Consulting. Although our main focus is on enabling personal development with technologies, yet we're open to any exciting project from assisting you in validate new business ideas to delivering the final version of your products.
+    links:
+      - name: Skooldio Tech Website
+        url: https://www.skooldio.tech/
+      - name: Skooldio Tech Facebook Page
+        url: https://www.facebook.com/skooldiotech
+      - name: Skooldio Website
+        url: https://www.skooldio.com/
+      - name: Skolldio Facebook Page
+        url: https://www.facebook.com/skooldio
+  - name: Sunday
+    url: https://easysunday.com/
+    image: /images/sponsors/golf1/spon_sunday.png
+    contributed: Keychron K3v2 Brown Switch keyboard to the prize pool.
+    links:
+      - name: Sunday Ins
+        url: https://easysunday.com/
+      - name: Careers
+        url: https://careers.easysunday.com/
+      - name: ชีวิตนี้เหมยขอเลือกเองสักครั้ง
+        url: https://www.youtube.com/watch?v=souIcRfNG0g&t=30s
+      - name: Life at Sunday
+        url: https://www.facebook.com/lifeatsunday
+  - name: poom@brikl.com
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    image: /images/sponsors/golf1/spon_poom.png
+    contributed: cocktails for some participants in the event who completes a special mission during the event.
+  # ---
+  # - name:
+  #   url:
+  #   image:
+  #   message:
+  #   links:
+  #     - name:
+  #       url:
+  # ---
+  # - name:
+  #   url:
+  #   image:
+  #   message:
+  #   links:
+  #     - name:
+  #       url:
 ranking:
   finals:
     - score: 293
@@ -101,6 +220,10 @@ We assume that many programming languages will be represented, so we hope that t
 
 - [Part 1](https://www.facebook.com/showdown.space/videos/589192172698870/)
 - [Part 2](https://www.facebook.com/showdown.space/videos/897540371212344/)
+
+## Sponsors
+
+<SponsorList />
 
 ## Application rounds
 
@@ -211,3 +334,7 @@ The scores from each round in the same set are summed up, and the best score bet
 - [Phumrapee Limpianchop](https://rayriffy.com/)
 - Chonlatee Jumratsee
 - [Supratouch Suwatno](https://www.supratouch.dev/)
+
+## Sponsor details
+
+<SponsorDetails />
