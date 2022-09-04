@@ -1,4 +1,5 @@
 ---
+description: A game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS.
 sponsors:
   - name: 'Cleverse'
     url: 'https://careers.cleverse.com/'

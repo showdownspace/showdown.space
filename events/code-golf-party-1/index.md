@@ -1,4 +1,9 @@
 ---
+description: A programming contest where participants try to solve problems with the smallest amount of code possible.
+meta:
+  - - head
+    - property: 'og:image'
+      content: /images/banners/golf1.jpg
 sponsors:
   - name: BigBears.IO
     url: https://www.facebook.com/bigbears.io
