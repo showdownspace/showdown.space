@@ -22,7 +22,7 @@
 .showdownspace .VPNavBarTitle {
   font-family: Karla, var(--vp-font-family-base);
 }
-
+/* 
 .content {
   padding-left: 1.5rem;
 }
@@ -53,8 +53,8 @@ h2 {
 h3 {
   padding-top: 2rem;
   border-top: 1px solid #a8a29e33;
-}
-
+} */
+/* 
 .showdownspace .nav-bar {
   background-image: url(./header-bg2.svg);
   border-bottom-color: #1C1918;
@@ -68,4 +68,4 @@ h3 {
   background-repeat: no-repeat;
   width: 220px;
   text-indent: -9999px;
-}
+} */
