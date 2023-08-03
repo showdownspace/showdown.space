@@ -1,6 +1,6 @@
 {
   "name": "showdown.space",
-  "packageManager": "yarn@3.2.0",
+  "packageManager": "pnpm@8.6.7",
   "scripts": {
     "dev": "vitepress dev --port=${PORT:-6059}"
   },
