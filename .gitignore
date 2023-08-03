@@ -1,4 +1,5 @@
 .vitepress/dist
+.vitepress/cache
 
 .yarn/*
 !.yarn/patches

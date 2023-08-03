@@ -21,7 +21,7 @@ export default {
   setup() {
     const { site } = useData()
     const events = computed(() => {
-      return site.value.themeConfig.sidebar.find(s => s.link === '/events/').children
+      return site.value.themeConfig.sidebar.find(s => s.link === '/events/').items
     })
     return {
       events
