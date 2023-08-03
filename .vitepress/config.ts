@@ -60,6 +60,7 @@ export default defineConfig({
         link: 'https://creatorsgarten.org/ring',
       },
     ],
+    logo: '/icon.png',
     sidebar: [
       {
         text: 'Events',
