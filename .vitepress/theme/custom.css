@@ -1,20 +1,26 @@
 /* .vitepress/theme/custom.css */
 :root {
-  --c-bg: #292524;
+  --vp-c-brand: #ffcf56;
+  --vp-c-brand-light: #ffd981;
+  --vp-c-brand-lighter: #ffe19a;
+  --vp-c-brand-dark: #dfb859;
+  --vp-c-brand-darker: #ab851c;
+  --vp-button-brand-text: var(--vp-c-bg);
+
+  /* --c-bg: #292524;
   --c-text: #f5f5f4;
   --c-text-light: #a8a29e;
   --c-brand: #ffcf56;
-  --c-brand-light: #ffcf56;
-  --font-family-base: Karla, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --c-brand-light: #ffcf56; */
+  /* --font-family-base: Karla, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; */
 }
 
-
-main {
-  font-size: 18px;
-}
-
-div.container {
-  max-width: 56rem !important;
+.showdownspace .content h1,
+.showdownspace .content h2,
+.showdownspace .content h3,
+.showdownspace .VPHero h1,
+.showdownspace .VPNavBarTitle {
+  font-family: Karla, var(--vp-font-family-base);
 }
 
 .content {
