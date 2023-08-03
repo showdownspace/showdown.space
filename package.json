@@ -2,7 +2,8 @@
   "name": "showdown.space",
   "packageManager": "pnpm@8.6.7",
   "scripts": {
-    "dev": "vitepress dev --port=${PORT:-6059}"
+    "dev": "vitepress dev --port=${PORT:-6059}",
+    "build": "vitepress build"
   },
   "devDependencies": {
     "eslint": "^8.46.0",
