@@ -6,6 +6,10 @@
   --vp-c-brand-dark: #dfb859;
   --vp-c-brand-darker: #ab851c;
   --vp-button-brand-text: var(--vp-c-bg);
+  --vp-c-brand-1: #ffcf56;
+  --vp-c-brand-2: #dfb859;
+  --vp-c-brand-3: #ab851c;
+  --vp-button-brand-bg: var(--vp-c-brand);
 
   /* --c-bg: #292524;
   --c-text: #f5f5f4;

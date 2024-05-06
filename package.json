@@ -7,12 +7,13 @@
   },
   "devDependencies": {
     "eslint": "^8.46.0",
-    "prettier": "^3.0.1",
-    "typescript": "^5.1.6",
-    "vitepress": "1.0.0-beta.7",
-    "vue": "^3.3.4"
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "vitepress": "1.1.4",
+    "vue": "^3.4.26"
   },
   "dependencies": {
     "firebase": "^10.1.0"
-  }
+  },
+  "type": "module"
 }
