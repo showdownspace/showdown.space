@@ -1,5 +1,9 @@
 ---
 description: A game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS.
+sponsors:
+  - name: Cleverse
+    url: https://about.cleverse.com/
+    image: https://im.dt.in.th/ipfs/bafybeib7yrkezpc4mjp5x4xqhsh4xfugl7isvctizolcerbvdx2nf6p6nq/image.webp
 ---
 
 # Code in the Wind #2
@@ -16,7 +20,14 @@ description: A game show where contestants implement a web page according to the
 
 ![](../code-in-the-wind-1/format.jpeg)
 
+## Sponsors
+
+<SponsorList />
 
 ## Results
 
 The results — as well as all the challenges and solutions — will be posted here after the event.
+
+## Sponsor details
+
+<SponsorDetails />
