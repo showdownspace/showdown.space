@@ -44,15 +44,124 @@ sponsors:
     links:
       - name: Facebook Page
         url: https://www.facebook.com/oddsteam
+ranking:
+  finals:
+    - score: 200
+      participant:
+        handle: rootEnginear
+        handleUrl: https://github.com/rootEnginear
+        name: Suthep Chanchuphol
+    - score: 160
+      participant:
+        handle: boomchanotai
+        handleUrl: https://github.com/boomchanotai
+        name: Chanotai Krajeam
+    - score: 155
+      participant:
+        handle: SaltyAom
+        handleUrl: https://github.com/SaltyAom
+        name: Kongkeit Khunpanitchot
+    - score: 133
+      participant:
+        handle: saenyakorn
+        handleUrl: https://github.com/saenyakorn
+        name: Saenyakorn Siangsanoh
+    - score: 126
+      participant:
+        handle: bombnp
+        handleUrl: https://github.com/bombnp
+        name: Nut Pinyo
+    - score: 121
+      participant:
+        handle: supachailllpay
+        handleUrl: https://github.com/supachailllpay
+        name: Supachai Laparparat
+    - score: 108
+      participant:
+        handle: msp5382
+        handleUrl: https://github.com/msp5382
+        name: Patcharapol Sankaew
+    - score: 78
+      participant:
+        handle: Gusb3ll
+        handleUrl: https://github.com/msp5382
+        name: Kitpipat Jaritwong
+participants:
+  - handle: Anon-136
+    handleUrl: https://github.com/Anon-136
+    name: Anon Jindawong
+  - handle: Basone01
+    handleUrl: https://github.com/Basone01
+    name: Surachet Sangasaeng
+  - handle: Bearfinn
+    handleUrl: https://github.com/Bearfinn
+    name: Kritsada Sunthornwutthikrai
+  - handle: bombnp
+    handleUrl: https://github.com/bombnp
+    name: Nut Pinyo
+  - handle: boomchanotai
+    handleUrl: https://github.com/boomchanotai
+    name: Chanotai Krajeam
+  - handle: champjss
+    handleUrl: https://github.com/champjss
+    name: Jatesadakarn Saengrat
+  - handle: chayapatr
+    handleUrl: https://github.com/chayapatr
+    name: Chayapatr Archiwaranguprok
+  - handle: GGolfz
+    handleUrl: https://github.com/GGolfz
+    name: Wisarut Kitticharoenphonngam
+  - handle: Gusb3ll
+    handleUrl: https://github.com/Gusb3ll
+    name: Kitpipat Jaritwong
+  - handle: khris-xp
+    handleUrl: https://github.com/khris-xp
+    name: Khris Bharmmano
+  - handle: msp5382
+    handleUrl: https://github.com/msp5382
+    name: Patcharapol Sankaew
+  - handle: Patiphon Loetsuthakun
+  - handle: peam1146
+    handleUrl: https://github.com/peam1146
+    name: Supakarin Niansupornpun
+  - handle: peeranat-dan
+    handleUrl: https://github.com/peeranat-dan
+    name: Peeranat Danaidusadeekul
+  - handle: pun
+  - handle: rootEnginear
+    handleUrl: https://github.com/rootEnginear
+    name: Suthep Chanchuphol
+  - handle: saenyakorn
+    handleUrl: https://github.com/saenyakorn
+    name: Saenyakorn Siangsanoh
+  - handle: SaltyAom
+    handleUrl: https://github.com/SaltyAom
+    name: Kongkeit Khunpanitchot
+  - handle: supachailllpay
+    handleUrl: https://github.com/supachailllpay
+    name: Supachai Laparparat
+  - handle: Tamtikorn Kietipungchai
+  - handle: thaweesakt
+    handleUrl: https://github.com/thaweesakt
+    name: ทวีศักดิ์ ตระกูลคล้อยดี
+  - handle: Watee K.
+  - handle: World
+  - handle: ศุภธัช สุวัฒโน
 ---
 
 # Code in the Wind #2
 
 **Code in the Wind #2** is a [BKK.JS #20 after-party](https://creatorsgarten.org/event/bkkjs20) where you can meet up, hang out, and participate in a friendly coding challenge using HTML, CSS, and Tailwind CSS.
 
+![](https://im.dt.in.th/ipfs/bafybeidr5hl7rf7n5lm3eqyeqfoqgzgh5uvyq5utx2ehmzjbbsaymrvh6e/image.webp)
+
 **Date:** Saturday, May 18, 2024 @ 18:00 (+7:00) \
 **Location:** [Agoda 8th fl., centralwOrld Offices](https://www.google.com/maps/search/?api=1&query=13.745939,100.538336) \
 **Tickets:** [Eventpop](https://www.eventpop.me/e/26957) (a ticket is required to attend the event)
+
+<script setup>
+  import Challenge from '../code-in-the-wind-1/Challenge.vue'
+</script>
 
 ## About Code in the Wind
 
@@ -60,13 +169,106 @@ sponsors:
 
 ![](../code-in-the-wind-1/format.jpeg)
 
+## Final ranking
+
+### Final rounds
+
+<RankingTable tableName="finals" />
+
+[&rarr; See the final challenges](#finals-1-bento-grid)
+
 ## Sponsors
 
 <SponsorList />
 
-## Results
+## Format
 
-The results — as well as all the challenges and solutions — will be posted here after the event.
+The game consists of 4 qualifying rounds and 2 final rounds.
+
+- **Qualifying rounds:** 4 rounds with 6 contestants each. Top 2 contestants from each round advance to the final round.
+- **Final rounds:** 2 rounds with 8 contestants each. The scores from the final rounds are combined to determine the final ranking.
+
+## Challenges
+
+The challenge in each round comes with
+
+- A reference screenshot
+- 5 objectives to meet
+
+Completing each objective will earn you 15 points (for a total of 75 points). The remaining 25 points will be determined by viewers’ votes.
+
+### Test round: Creatorsgarten logo
+
+<Challenge url='https://citw02.pages.dev/challenges/06cafdce-6e4a-4b0b-a945-5ba3a93330d9/' referenceUrl='https://play.tailwindcss.com/jSymBDsYSu?size=540x720'>
+
+This challenge is for a test round. The goal is to recreate the Creatorsgarten logo using Tailwind CSS.
+
+</Challenge>
+
+### Qualifiers #1: Code 128
+
+<Challenge url='https://citw02.pages.dev/challenges/128f918c-e1f2-44a7-a5c3-3c3208e527d1/' referenceUrl='https://play.tailwindcss.com/8G7Zu1X04j?size=540x720'>
+
+This challenge focuses on attention to detail. The goal is to create a Code 128 barcode using Tailwind CSS that, when scanned, reveals the message "OK". Code 128 barcodes feature bars of four distinct widths. Participants must pay attention to the width of each bar and the spacing between them, and recreate it accurately.
+
+</Challenge>
+
+### Qualifiers #2: Glassmorphism
+
+<Challenge url='https://citw02.pages.dev/challenges/2d74b0d1-69d2-4477-95ce-eaf72dde28ed/' referenceUrl='https://play.tailwindcss.com/rCrnCT9bUk?size=540x720'>
+
+This challenge is about techniques for creating a glassmorphism effect, with background blur and a frosted glass appearance.
+
+</Challenge>
+
+### Qualifiers #3: the sun is a deadly lazer
+
+<Challenge url='https://citw02.pages.dev/challenges/77ef7dcb-8274-4b75-8af5-3d11f473509f/' referenceUrl='https://play.tailwindcss.com/TW3nm05WMp?size=540x720'>
+
+Inspired by [Bill Wurtz](https://www.youtube.com/watch?v=KdbI8BwrA1o), the goal of this challenge is to recreate Bill Wurtz’s text effect style using Tailwind CSS. This challenge focuses on overlapping text (absolute layout), transforms, shadows, and blend modes.
+
+</Challenge>
+
+### Qualifiers #4: Hotel recommendation
+
+<Challenge url='https://citw02.pages.dev/challenges/ce1fc2ec-c83b-45fe-84fa-a3a2cf12256d/' referenceUrl='https://play.tailwindcss.com/dArBqJEGej?size=540x720'>
+
+Inspired by [Agoda](https://www.agoda.com/), the goal of this challenge is to create a hotel recommendation card using Tailwind CSS. This challenge focuses on creating a layout with densely packed information in a limited time.
+
+</Challenge>
+
+### Finals #1: Bento Grid
+
+<Challenge url='https://citw02.pages.dev/challenges/8b76f0ac-c6a2-4643-b5cd-d7b4773f8427/' referenceUrl='https://play.tailwindcss.com/eDsqwQqFNP?size=540x720'>
+
+The goal of this challenge is to create a “bento grid” layout, as popularized by Apple’s presentations. This challenge focuses on creating a grid-like layout where some items are larger than others.
+
+</Challenge>
+
+### Finals #2: Imposter
+
+<Challenge url='https://citw02.pages.dev/challenges/ff8b07ef-d1f3-4da4-b175-ac3ae55d8509/' referenceUrl='https://play.tailwindcss.com/Tmp8pDcaQZ?size=540x720'>
+
+The goal of this challenge is to draw a character inspired by the game Among Us. This challenge focuses on creating a character without using any images, only HTML elements and Tailwind CSS.
+
+</Challenge>
+
+## Participants
+
+<ParticipantsTable />
+
+## Staffs
+
+- [Thai Pangsakulyanont](https://dt.in.th/)
+- [Phumrapee Limpianchop](https://rayriffy.com/)
+- Chukkrit Visitsaktavorn
+- GingGaew Patsalee
+- Kanokphat Jinanarong
+- [Manassarn Manoonchai](https://narze.live/)
+- [Phoomparin Mano](https://poom.dev/)
+- [Siravij Praevisavakij](https://siravijbb.com/)
+- Suphatchari Laoprasert
+- [Warat Wongmaneekit](https://thangman22.com/)
 
 ## Sponsor details
 
