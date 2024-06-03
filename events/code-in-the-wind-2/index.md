@@ -199,7 +199,7 @@ Completing each objective will earn you 15 points (for a total of 75 points). Th
 
 ### Test round: Creatorsgarten logo
 
-<Challenge url='https://citw02.pages.dev/challenges/06cafdce-6e4a-4b0b-a945-5ba3a93330d9/' referenceUrl='https://play.tailwindcss.com/jSymBDsYSu?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/06cafdce-6e4a-4b0b-a945-5ba3a93330d9/' referenceUrl='https://play.tailwindcss.com/jSymBDsYSu?size=540x720' videoUrl='https://youtu.be/9ftrgC60pPk'>
 
 This challenge is for a test round. The goal is to recreate the Creatorsgarten logo using Tailwind CSS.
 
@@ -207,7 +207,7 @@ This challenge is for a test round. The goal is to recreate the Creatorsgarten l
 
 ### Qualifiers #1: Code 128
 
-<Challenge url='https://citw02.pages.dev/challenges/128f918c-e1f2-44a7-a5c3-3c3208e527d1/' referenceUrl='https://play.tailwindcss.com/8G7Zu1X04j?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/128f918c-e1f2-44a7-a5c3-3c3208e527d1/' referenceUrl='https://play.tailwindcss.com/8G7Zu1X04j?size=540x720' videoUrl='https://youtu.be/-fAvIByango'>
 
 This challenge focuses on attention to detail. The goal is to create a Code 128 barcode using Tailwind CSS that, when scanned, reveals the message "OK". Code 128 barcodes feature bars of four distinct widths. Participants must pay attention to the width of each bar and the spacing between them, and recreate it accurately.
 
@@ -215,7 +215,7 @@ This challenge focuses on attention to detail. The goal is to create a Code 128 
 
 ### Qualifiers #2: Glassmorphism
 
-<Challenge url='https://citw02.pages.dev/challenges/2d74b0d1-69d2-4477-95ce-eaf72dde28ed/' referenceUrl='https://play.tailwindcss.com/rCrnCT9bUk?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/2d74b0d1-69d2-4477-95ce-eaf72dde28ed/' referenceUrl='https://play.tailwindcss.com/rCrnCT9bUk?size=540x720' videoUrl='https://youtu.be/tbTZb-BQFJA'>
 
 This challenge is about techniques for creating a glassmorphism effect, with background blur and a frosted glass appearance.
 
@@ -223,7 +223,7 @@ This challenge is about techniques for creating a glassmorphism effect, with bac
 
 ### Qualifiers #3: the sun is a deadly lazer
 
-<Challenge url='https://citw02.pages.dev/challenges/77ef7dcb-8274-4b75-8af5-3d11f473509f/' referenceUrl='https://play.tailwindcss.com/TW3nm05WMp?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/77ef7dcb-8274-4b75-8af5-3d11f473509f/' referenceUrl='https://play.tailwindcss.com/TW3nm05WMp?size=540x720' videoUrl='https://youtu.be/c7bV1rxXkXw'>
 
 Inspired by [Bill Wurtz](https://www.youtube.com/watch?v=KdbI8BwrA1o), the goal of this challenge is to recreate Bill Wurtz’s text effect style using Tailwind CSS. This challenge focuses on overlapping text (absolute layout), transforms, shadows, and blend modes.
 
@@ -231,7 +231,7 @@ Inspired by [Bill Wurtz](https://www.youtube.com/watch?v=KdbI8BwrA1o), the goal 
 
 ### Qualifiers #4: Hotel recommendation
 
-<Challenge url='https://citw02.pages.dev/challenges/ce1fc2ec-c83b-45fe-84fa-a3a2cf12256d/' referenceUrl='https://play.tailwindcss.com/dArBqJEGej?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/ce1fc2ec-c83b-45fe-84fa-a3a2cf12256d/' referenceUrl='https://play.tailwindcss.com/dArBqJEGej?size=540x720' videoUrl='https://youtu.be/3dA1P7V1w3o'>
 
 Inspired by [Agoda](https://www.agoda.com/), the goal of this challenge is to create a hotel recommendation card using Tailwind CSS. This challenge focuses on creating a layout with densely packed information in a limited time.
 
@@ -239,7 +239,7 @@ Inspired by [Agoda](https://www.agoda.com/), the goal of this challenge is to cr
 
 ### Finals #1: Bento Grid
 
-<Challenge url='https://citw02.pages.dev/challenges/8b76f0ac-c6a2-4643-b5cd-d7b4773f8427/' referenceUrl='https://play.tailwindcss.com/eDsqwQqFNP?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/8b76f0ac-c6a2-4643-b5cd-d7b4773f8427/' referenceUrl='https://play.tailwindcss.com/eDsqwQqFNP?size=540x720' videoUrl='https://youtu.be/kWSnkcSAljQ'>
 
 The goal of this challenge is to create a “bento grid” layout, as popularized by Apple’s presentations. This challenge focuses on creating a grid-like layout where some items are larger than others.
 
@@ -247,7 +247,7 @@ The goal of this challenge is to create a “bento grid” layout, as popularize
 
 ### Finals #2: Imposter
 
-<Challenge url='https://citw02.pages.dev/challenges/ff8b07ef-d1f3-4da4-b175-ac3ae55d8509/' referenceUrl='https://play.tailwindcss.com/Tmp8pDcaQZ?size=540x720'>
+<Challenge url='https://citw02.pages.dev/challenges/ff8b07ef-d1f3-4da4-b175-ac3ae55d8509/' referenceUrl='https://play.tailwindcss.com/Tmp8pDcaQZ?size=540x720' videoUrl='https://youtu.be/tzJcJPNvi9o'>
 
 The goal of this challenge is to draw a character inspired by the game Among Us. This challenge focuses on creating a character without using any images, only HTML elements and Tailwind CSS.
 
