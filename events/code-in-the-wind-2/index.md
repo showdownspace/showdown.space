@@ -273,3 +273,15 @@ The goal of this challenge is to draw a character inspired by the game Among Us.
 ## Sponsor details
 
 <SponsorDetails />
+
+## Code
+
+This event relies on many custom tools. The source code is available on GitHub.
+
+- **The webapp:** The web app lets participants log in with their Creatorsgarten account. Once logged in, they can launch the editor which lets them work on the challenge. It also has a voting system where viewers can vote for their favorite submissions, a stage view that previews everyone’s submissions, as well as an admin interface for staff to manage the event. The source code is available in the [codeinthewind-editor-shell](https://github.com/showdownspace/codeinthewind-editor-shell) repository. It is built with [Remix](https://remix.run/) and uses [Firebase](https://firebase.google.com/) as the [backend](https://github.com/showdownspace/rt-sys).
+
+- **The editor:** The editor used is a modified version of [Tailwind Play](https://play.tailwindcss.com/). The source code is available in the [codeinthewind-editor-core](https://github.com/showdownspace/codeinthewind-editor-core) repository. It implements a reverse proxy that injects [custom CSS and JavaScript](https://github.com/showdownspace/codeinthewind-editor-core/blob/main/public/codeinthewind.js) into the webapp. The injected code allows the editor to be controlled from the parent frame.
+
+- **The challenge site:** This site hosts the challenges for the event. The source code is available in the [codeinthewind-02](https://github.com/showdownspace/codeinthewind-02) repository. It is built with [Eleventy](https://www.11ty.dev/).
+
+- [tailwindcss-standalone](https://github.com/showdownspace/tailwindcss-standalone) bundles Tailwind CSS’ compiler in a way that can be used in a browser environment.
