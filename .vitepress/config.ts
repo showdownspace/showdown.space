@@ -69,6 +69,7 @@ export default defineConfig({
           { text: 'Code in the Wind #1', link: '/events/code-in-the-wind-1/' },
           { text: 'Code Golf Party #1', link: '/events/code-golf-party-1/' },
           { text: 'Code in the Wind #2', link: '/events/code-in-the-wind-2/' },
+          { text: 'Browser Automation Challenges', link: '/events/browser-automation-challenges/' },
         ],
       },
     ],
