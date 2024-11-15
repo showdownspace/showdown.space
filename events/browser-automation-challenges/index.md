@@ -1,6 +1,15 @@
 ---
 description: A coding challenge event where teams of participants write browser automation scripts to solve puzzles and complete tasks efficiently.
 sponsors:
+  - name: BigBears.IO
+    url: https://bigbears.io/
+    image: /images/sponsors/golf1/spon_bigbears.jpeg
+    contributed: monetary support for our events, including this one.
+    links:
+      - name: Blog
+        url: https://bigbears.io/
+      - name: Facebook Page
+        url: https://www.facebook.com/bigbears.io
   - name: Cleverse
     url: https://cleverse.com/
     image: /images/sponsors/golf1/spon_cleverse.jpeg
