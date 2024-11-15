@@ -14,6 +14,18 @@ Teams of participants will race to complete a variety of browser automation chal
 
 ## About Browser Automation Challenges
 
+## Sponsors
+
+- **Sponsor Name 1**
+  - **Website:** [Sponsor URL 1](https://example.com)
+  - **Contribution:** Description of contribution
+  - **Message:** A brief message from the sponsor
+
+- **Sponsor Name 2**
+  - **Website:** [Sponsor URL 2](https://example.com)
+  - **Contribution:** Description of contribution
+  - **Message:** A brief message from the sponsor
+
 ## Format
 
 In the event, challenges will be released one-by-one. They are simple web-based challenge that is impossible to complete manually by a human, so teams are expected to automate the browser to solve that challenge. (See below for example challenge.)
