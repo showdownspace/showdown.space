@@ -16,15 +16,7 @@ Teams of participants will race to complete a variety of browser automation chal
 
 ## Sponsors
 
-- **Sponsor Name 1**
-  - **Website:** [Sponsor URL 1](https://example.com)
-  - **Contribution:** Description of contribution
-  - **Message:** A brief message from the sponsor
-
-- **Sponsor Name 2**
-  - **Website:** [Sponsor URL 2](https://example.com)
-  - **Contribution:** Description of contribution
-  - **Message:** A brief message from the sponsor
+<SponsorList />
 
 ## Format
 
