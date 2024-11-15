@@ -284,4 +284,6 @@ This event relies on many custom tools. The source code is available on GitHub.
 
 - **The challenge site:** This site hosts the challenges for the event. The source code is available in the [codeinthewind-02](https://github.com/showdownspace/codeinthewind-02) repository. It is built with [Eleventy](https://www.11ty.dev/).
 
+- **Quiz app:** The quiz app used is [dtinth/auden](https://github.com/dtinth/auden), a flexible audience engagement app that lets viewers participate in quizzes and polls. Built with React and Firebase.
+
 - [tailwindcss-standalone](https://github.com/showdownspace/tailwindcss-standalone) bundles Tailwind CSS’ compiler in a way that can be used in a browser environment.
