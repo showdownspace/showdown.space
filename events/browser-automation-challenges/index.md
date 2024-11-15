@@ -15,25 +15,6 @@ sponsors:
     links:
       - name: Website
         url: https://example.com
-ranking:
-  finals:
-    - score: 0
-      participant:
-        handle: participant1
-        handleUrl: https://github.com/participant1
-        name: Participant One
-    - score: 0
-      participant:
-        handle: participant2
-        handleUrl: https://github.com/participant2
-        name: Participant Two
-participants:
-  - handle: participant1
-    handleUrl: https://github.com/participant1
-    name: Participant One
-  - handle: participant2
-    handleUrl: https://github.com/participant2
-    name: Participant Two
 ---
 
 # Browser Automation Challenges
