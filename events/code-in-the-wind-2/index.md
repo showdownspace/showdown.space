@@ -5,11 +5,7 @@ sponsors:
     url: https://bigbears.io/
     image: /images/sponsors/golf1/spon_bigbears.jpeg
     contributed: monetary support for our events
-    links:
-      - name: Blog
-        url: https://bigbears.io/
-      - name: Facebook Page
-        url: https://www.facebook.com/bigbears.io
+    links: []
   - name: Agoda
     url: https://careersatagoda.com
     image: https://im.dt.in.th/ipfs/bafybeicsgniltlxcyxpdspta2rwqzyfmhlgbpsiikhiuyoigrshlbqlrdu/440878753_414911851417851_5069098380587761380_n.webp
