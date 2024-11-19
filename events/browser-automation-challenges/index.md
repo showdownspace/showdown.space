@@ -138,11 +138,13 @@ Check all the checkbox. Fight against the computer randomly unchecking your boxe
 - Panthipa Suksirisorn
 - Natworpong Loyswai
 - [Kamol Treewatchararat](https://tholapz.github.io/)
+- [Kanin Kearpimy](https://github.com/kanin-kearpimy)
 - Khimjare Chodkaodee
 - [Nutthapat Pongtanyavichai](https://leomotors.me)
 - [Manassarn Manoonchai](https://narze.live)
 - Patharadanai Srisawat
 - [Phoomparin Mano](https://poom.dev)
+- [Phumrapee Limpianchop](https://rayriffy.com/)
 - [Thanapat Chotipun](https://patrickchodev.com)
 - Topland
 - Wasin Uddy
