@@ -154,7 +154,7 @@ ranking:
           - name: Korn
             url: https://github.com/klemonade
           - name: Gdoy
-            url: https://github.gdoyssaga
+            url: https://github.com/gdoyssaga
     - score: 14
       participant:
         handle: ComeForFreePizza
