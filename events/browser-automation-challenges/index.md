@@ -333,7 +333,7 @@ Answer 100 simple math questions, involving addition, subtraction, multiplicatio
 **Number of finishers:** 5 \
 **First finished by:** Undefined
 
-[&rarr; Try out the challenge][link_4_robot]
+[&rarr; Try out the challenge][link_5_button]
 
 </div>
 
